@@ -110,6 +110,3 @@ if __name__ == "__main__":
 
     results_file = study_dir / "results" / f"models_iteration-{iteration_number}.pkl"
     dump(results, results_file)
-
-    
-    
