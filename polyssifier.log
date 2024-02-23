@@ -3320,3 +3320,818 @@
 2024-02-22 12:00:30,011 - polyssifier - INFO - Naive Bayes                8: Train 0.64/Test 0.65, 0.02 sec
 2024-02-22 12:00:30,016 - polyssifier - INFO - Training Naive Bayes 9
 2024-02-22 12:00:30,039 - polyssifier - INFO - Naive Bayes                9: Train 0.65/Test 0.59, 0.02 sec
+2024-02-23 09:10:25,506 - polyssifier - INFO - Detected 2 classes in label
+2024-02-23 09:10:25,509 - polyssifier - INFO - Building classifiers ...
+2024-02-23 09:10:25,513 - polyssifier - INFO - Initialization, done.
+2024-02-23 09:10:25,538 - polyssifier - INFO - Training Multilayer Perceptron 0
+2024-02-23 09:10:28,052 - polyssifier - INFO - Multilayer Perceptron      0: Train 1.00/Test 0.88, 2.51 sec
+2024-02-23 09:10:28,062 - polyssifier - INFO - Training Multilayer Perceptron 1
+2024-02-23 09:10:30,569 - polyssifier - INFO - Multilayer Perceptron      1: Train 1.00/Test 0.89, 2.51 sec
+2024-02-23 09:10:30,577 - polyssifier - INFO - Training Multilayer Perceptron 2
+2024-02-23 09:10:33,021 - polyssifier - INFO - Multilayer Perceptron      2: Train 1.00/Test 0.89, 2.44 sec
+2024-02-23 09:10:33,028 - polyssifier - INFO - Training Multilayer Perceptron 3
+2024-02-23 09:10:35,400 - polyssifier - INFO - Multilayer Perceptron      3: Train 1.00/Test 0.91, 2.37 sec
+2024-02-23 09:10:35,406 - polyssifier - INFO - Training Multilayer Perceptron 4
+2024-02-23 09:10:37,932 - polyssifier - INFO - Multilayer Perceptron      4: Train 1.00/Test 0.92, 2.53 sec
+2024-02-23 09:10:37,942 - polyssifier - INFO - Training Multilayer Perceptron 5
+2024-02-23 09:10:40,308 - polyssifier - INFO - Multilayer Perceptron      5: Train 1.00/Test 0.86, 2.37 sec
+2024-02-23 09:10:40,317 - polyssifier - INFO - Training Multilayer Perceptron 6
+2024-02-23 09:10:42,797 - polyssifier - INFO - Multilayer Perceptron      6: Train 1.00/Test 0.86, 2.48 sec
+2024-02-23 09:10:42,806 - polyssifier - INFO - Training Multilayer Perceptron 7
+2024-02-23 09:10:45,174 - polyssifier - INFO - Multilayer Perceptron      7: Train 1.00/Test 0.94, 2.37 sec
+2024-02-23 09:10:45,183 - polyssifier - INFO - Training Multilayer Perceptron 8
+2024-02-23 09:10:47,645 - polyssifier - INFO - Multilayer Perceptron      8: Train 1.00/Test 0.92, 2.46 sec
+2024-02-23 09:10:47,654 - polyssifier - INFO - Training Multilayer Perceptron 9
+2024-02-23 09:10:50,066 - polyssifier - INFO - Multilayer Perceptron      9: Train 1.00/Test 0.88, 2.41 sec
+2024-02-23 09:10:50,074 - polyssifier - INFO - Training Nearest Neighbors 0
+2024-02-23 09:10:50,831 - polyssifier - INFO - Nearest Neighbors          0: Train 0.80/Test 0.68, 0.76 sec
+2024-02-23 09:10:50,839 - polyssifier - INFO - Training Nearest Neighbors 1
+2024-02-23 09:10:51,233 - polyssifier - INFO - Nearest Neighbors          1: Train 0.83/Test 0.69, 0.39 sec
+2024-02-23 09:10:51,241 - polyssifier - INFO - Training Nearest Neighbors 2
+2024-02-23 09:10:51,637 - polyssifier - INFO - Nearest Neighbors          2: Train 0.83/Test 0.78, 0.40 sec
+2024-02-23 09:10:51,645 - polyssifier - INFO - Training Nearest Neighbors 3
+2024-02-23 09:10:52,032 - polyssifier - INFO - Nearest Neighbors          3: Train 0.83/Test 0.84, 0.39 sec
+2024-02-23 09:10:52,041 - polyssifier - INFO - Training Nearest Neighbors 4
+2024-02-23 09:10:52,419 - polyssifier - INFO - Nearest Neighbors          4: Train 0.89/Test 0.60, 0.38 sec
+2024-02-23 09:10:52,427 - polyssifier - INFO - Training Nearest Neighbors 5
+2024-02-23 09:10:52,825 - polyssifier - INFO - Nearest Neighbors          5: Train 0.83/Test 0.73, 0.40 sec
+2024-02-23 09:10:52,832 - polyssifier - INFO - Training Nearest Neighbors 6
+2024-02-23 09:10:53,227 - polyssifier - INFO - Nearest Neighbors          6: Train 0.79/Test 0.76, 0.39 sec
+2024-02-23 09:10:53,235 - polyssifier - INFO - Training Nearest Neighbors 7
+2024-02-23 09:10:53,667 - polyssifier - INFO - Nearest Neighbors          7: Train 0.81/Test 0.79, 0.43 sec
+2024-02-23 09:10:53,675 - polyssifier - INFO - Training Nearest Neighbors 8
+2024-02-23 09:10:54,052 - polyssifier - INFO - Nearest Neighbors          8: Train 0.82/Test 0.82, 0.38 sec
+2024-02-23 09:10:54,059 - polyssifier - INFO - Training Nearest Neighbors 9
+2024-02-23 09:10:54,443 - polyssifier - INFO - Nearest Neighbors          9: Train 0.84/Test 0.75, 0.38 sec
+2024-02-23 09:10:54,451 - polyssifier - INFO - Training SVM 0
+2024-02-23 09:10:57,325 - polyssifier - INFO - SVM                        0: Train 0.99/Test 0.83, 2.87 sec
+2024-02-23 09:10:57,331 - polyssifier - INFO - Training SVM 1
+2024-02-23 09:11:00,185 - polyssifier - INFO - SVM                        1: Train 0.99/Test 0.82, 2.85 sec
+2024-02-23 09:11:00,190 - polyssifier - INFO - Training SVM 2
+2024-02-23 09:11:03,063 - polyssifier - INFO - SVM                        2: Train 0.99/Test 0.89, 2.87 sec
+2024-02-23 09:11:03,069 - polyssifier - INFO - Training SVM 3
+2024-02-23 09:11:05,963 - polyssifier - INFO - SVM                        3: Train 0.99/Test 0.88, 2.89 sec
+2024-02-23 09:11:05,969 - polyssifier - INFO - Training SVM 4
+2024-02-23 09:11:09,044 - polyssifier - INFO - SVM                        4: Train 0.99/Test 0.85, 3.08 sec
+2024-02-23 09:11:09,051 - polyssifier - INFO - Training SVM 5
+2024-02-23 09:11:12,072 - polyssifier - INFO - SVM                        5: Train 0.99/Test 0.85, 3.02 sec
+2024-02-23 09:11:12,078 - polyssifier - INFO - Training SVM 6
+2024-02-23 09:11:14,930 - polyssifier - INFO - SVM                        6: Train 0.99/Test 0.87, 2.85 sec
+2024-02-23 09:11:14,936 - polyssifier - INFO - Training SVM 7
+2024-02-23 09:11:17,976 - polyssifier - INFO - SVM                        7: Train 0.99/Test 0.89, 3.04 sec
+2024-02-23 09:11:17,983 - polyssifier - INFO - Training SVM 8
+2024-02-23 09:11:20,907 - polyssifier - INFO - SVM                        8: Train 0.99/Test 0.91, 2.92 sec
+2024-02-23 09:11:20,913 - polyssifier - INFO - Training SVM 9
+2024-02-23 09:11:24,040 - polyssifier - INFO - SVM                        9: Train 0.99/Test 0.85, 3.13 sec
+2024-02-23 09:11:24,046 - polyssifier - INFO - Training Linear SVM 0
+2024-02-23 09:11:27,609 - polyssifier - INFO - Linear SVM                 0: Train 1.00/Test 0.91, 3.56 sec
+2024-02-23 09:11:27,616 - polyssifier - INFO - Training Linear SVM 1
+2024-02-23 09:11:31,586 - polyssifier - INFO - Linear SVM                 1: Train 1.00/Test 0.87, 3.97 sec
+2024-02-23 09:11:31,594 - polyssifier - INFO - Training Linear SVM 2
+2024-02-23 09:11:35,339 - polyssifier - INFO - Linear SVM                 2: Train 1.00/Test 0.91, 3.74 sec
+2024-02-23 09:11:35,347 - polyssifier - INFO - Training Linear SVM 3
+2024-02-23 09:11:39,601 - polyssifier - INFO - Linear SVM                 3: Train 1.00/Test 0.89, 4.25 sec
+2024-02-23 09:11:39,609 - polyssifier - INFO - Training Linear SVM 4
+2024-02-23 09:11:43,226 - polyssifier - INFO - Linear SVM                 4: Train 1.00/Test 0.88, 3.62 sec
+2024-02-23 09:11:43,234 - polyssifier - INFO - Training Linear SVM 5
+2024-02-23 09:11:47,561 - polyssifier - INFO - Linear SVM                 5: Train 1.00/Test 0.90, 4.33 sec
+2024-02-23 09:11:47,567 - polyssifier - INFO - Training Linear SVM 6
+2024-02-23 09:11:51,282 - polyssifier - INFO - Linear SVM                 6: Train 1.00/Test 0.88, 3.72 sec
+2024-02-23 09:11:51,290 - polyssifier - INFO - Training Linear SVM 7
+2024-02-23 09:11:55,127 - polyssifier - INFO - Linear SVM                 7: Train 1.00/Test 0.93, 3.84 sec
+2024-02-23 09:11:55,135 - polyssifier - INFO - Training Linear SVM 8
+2024-02-23 09:11:59,214 - polyssifier - INFO - Linear SVM                 8: Train 1.00/Test 0.95, 4.08 sec
+2024-02-23 09:11:59,221 - polyssifier - INFO - Training Linear SVM 9
+2024-02-23 09:12:03,156 - polyssifier - INFO - Linear SVM                 9: Train 1.00/Test 0.95, 3.93 sec
+2024-02-23 09:12:03,164 - polyssifier - INFO - Training Decision Tree 0
+2024-02-23 09:12:03,207 - polyssifier - INFO - Decision Tree              0: Train 1.00/Test 0.56, 0.04 sec
+2024-02-23 09:12:03,220 - polyssifier - INFO - Training Decision Tree 1
+2024-02-23 09:12:03,245 - polyssifier - INFO - Decision Tree              1: Train 1.00/Test 0.57, 0.03 sec
+2024-02-23 09:12:03,252 - polyssifier - INFO - Training Decision Tree 2
+2024-02-23 09:12:03,277 - polyssifier - INFO - Decision Tree              2: Train 1.00/Test 0.60, 0.02 sec
+2024-02-23 09:12:03,283 - polyssifier - INFO - Training Decision Tree 3
+2024-02-23 09:12:03,309 - polyssifier - INFO - Decision Tree              3: Train 1.00/Test 0.58, 0.03 sec
+2024-02-23 09:12:03,315 - polyssifier - INFO - Training Decision Tree 4
+2024-02-23 09:12:03,341 - polyssifier - INFO - Decision Tree              4: Train 1.00/Test 0.67, 0.03 sec
+2024-02-23 09:12:03,347 - polyssifier - INFO - Training Decision Tree 5
+2024-02-23 09:12:03,374 - polyssifier - INFO - Decision Tree              5: Train 1.00/Test 0.50, 0.03 sec
+2024-02-23 09:12:03,380 - polyssifier - INFO - Training Decision Tree 6
+2024-02-23 09:12:03,406 - polyssifier - INFO - Decision Tree              6: Train 1.00/Test 0.70, 0.03 sec
+2024-02-23 09:12:03,412 - polyssifier - INFO - Training Decision Tree 7
+2024-02-23 09:12:03,437 - polyssifier - INFO - Decision Tree              7: Train 1.00/Test 0.69, 0.03 sec
+2024-02-23 09:12:03,442 - polyssifier - INFO - Training Decision Tree 8
+2024-02-23 09:12:03,469 - polyssifier - INFO - Decision Tree              8: Train 1.00/Test 0.64, 0.03 sec
+2024-02-23 09:12:03,475 - polyssifier - INFO - Training Decision Tree 9
+2024-02-23 09:12:03,501 - polyssifier - INFO - Decision Tree              9: Train 1.00/Test 0.68, 0.03 sec
+2024-02-23 09:12:03,507 - polyssifier - INFO - Training Random Forest 0
+2024-02-23 09:12:06,175 - polyssifier - INFO - Random Forest              0: Train 1.00/Test 0.63, 2.67 sec
+2024-02-23 09:12:06,183 - polyssifier - INFO - Training Random Forest 1
+2024-02-23 09:12:08,849 - polyssifier - INFO - Random Forest              1: Train 1.00/Test 0.68, 2.67 sec
+2024-02-23 09:12:08,858 - polyssifier - INFO - Training Random Forest 2
+2024-02-23 09:12:11,510 - polyssifier - INFO - Random Forest              2: Train 1.00/Test 0.76, 2.65 sec
+2024-02-23 09:12:11,519 - polyssifier - INFO - Training Random Forest 3
+2024-02-23 09:12:14,140 - polyssifier - INFO - Random Forest              3: Train 1.00/Test 0.84, 2.62 sec
+2024-02-23 09:12:14,149 - polyssifier - INFO - Training Random Forest 4
+2024-02-23 09:12:16,790 - polyssifier - INFO - Random Forest              4: Train 1.00/Test 0.77, 2.64 sec
+2024-02-23 09:12:16,799 - polyssifier - INFO - Training Random Forest 5
+2024-02-23 09:12:19,465 - polyssifier - INFO - Random Forest              5: Train 1.00/Test 0.76, 2.67 sec
+2024-02-23 09:12:19,473 - polyssifier - INFO - Training Random Forest 6
+2024-02-23 09:12:22,115 - polyssifier - INFO - Random Forest              6: Train 1.00/Test 0.70, 2.64 sec
+2024-02-23 09:12:22,124 - polyssifier - INFO - Training Random Forest 7
+2024-02-23 09:12:24,759 - polyssifier - INFO - Random Forest              7: Train 1.00/Test 0.74, 2.63 sec
+2024-02-23 09:12:24,767 - polyssifier - INFO - Training Random Forest 8
+2024-02-23 09:12:27,429 - polyssifier - INFO - Random Forest              8: Train 1.00/Test 0.81, 2.66 sec
+2024-02-23 09:12:27,438 - polyssifier - INFO - Training Random Forest 9
+2024-02-23 09:12:30,084 - polyssifier - INFO - Random Forest              9: Train 1.00/Test 0.74, 2.65 sec
+2024-02-23 09:12:30,092 - polyssifier - INFO - Training Logistic Regression 0
+2024-02-23 09:12:30,502 - polyssifier - INFO - Logistic Regression        0: Train 1.00/Test 0.91, 0.41 sec
+2024-02-23 09:12:30,511 - polyssifier - INFO - Training Logistic Regression 1
+2024-02-23 09:12:30,936 - polyssifier - INFO - Logistic Regression        1: Train 1.00/Test 0.88, 0.43 sec
+2024-02-23 09:12:30,944 - polyssifier - INFO - Training Logistic Regression 2
+2024-02-23 09:12:31,365 - polyssifier - INFO - Logistic Regression        2: Train 1.00/Test 0.93, 0.42 sec
+2024-02-23 09:12:31,373 - polyssifier - INFO - Training Logistic Regression 3
+2024-02-23 09:12:31,802 - polyssifier - INFO - Logistic Regression        3: Train 1.00/Test 0.92, 0.43 sec
+2024-02-23 09:12:31,810 - polyssifier - INFO - Training Logistic Regression 4
+2024-02-23 09:12:32,212 - polyssifier - INFO - Logistic Regression        4: Train 1.00/Test 0.91, 0.40 sec
+2024-02-23 09:12:32,221 - polyssifier - INFO - Training Logistic Regression 5
+2024-02-23 09:12:32,624 - polyssifier - INFO - Logistic Regression        5: Train 1.00/Test 0.89, 0.40 sec
+2024-02-23 09:12:32,633 - polyssifier - INFO - Training Logistic Regression 6
+2024-02-23 09:12:33,069 - polyssifier - INFO - Logistic Regression        6: Train 1.00/Test 0.88, 0.44 sec
+2024-02-23 09:12:33,078 - polyssifier - INFO - Training Logistic Regression 7
+2024-02-23 09:12:33,495 - polyssifier - INFO - Logistic Regression        7: Train 1.00/Test 0.94, 0.42 sec
+2024-02-23 09:12:33,504 - polyssifier - INFO - Training Logistic Regression 8
+2024-02-23 09:12:33,935 - polyssifier - INFO - Logistic Regression        8: Train 1.00/Test 0.96, 0.43 sec
+2024-02-23 09:12:33,943 - polyssifier - INFO - Training Logistic Regression 9
+2024-02-23 09:12:34,349 - polyssifier - INFO - Logistic Regression        9: Train 1.00/Test 0.95, 0.41 sec
+2024-02-23 09:12:34,358 - polyssifier - INFO - Training Naive Bayes 0
+2024-02-23 09:12:34,395 - polyssifier - INFO - Naive Bayes                0: Train 0.67/Test 0.60, 0.04 sec
+2024-02-23 09:12:34,404 - polyssifier - INFO - Training Naive Bayes 1
+2024-02-23 09:12:34,430 - polyssifier - INFO - Naive Bayes                1: Train 0.66/Test 0.62, 0.03 sec
+2024-02-23 09:12:34,436 - polyssifier - INFO - Training Naive Bayes 2
+2024-02-23 09:12:34,458 - polyssifier - INFO - Naive Bayes                2: Train 0.66/Test 0.66, 0.02 sec
+2024-02-23 09:12:34,464 - polyssifier - INFO - Training Naive Bayes 3
+2024-02-23 09:12:34,485 - polyssifier - INFO - Naive Bayes                3: Train 0.66/Test 0.75, 0.02 sec
+2024-02-23 09:12:34,492 - polyssifier - INFO - Training Naive Bayes 4
+2024-02-23 09:12:34,513 - polyssifier - INFO - Naive Bayes                4: Train 0.67/Test 0.56, 0.02 sec
+2024-02-23 09:12:34,519 - polyssifier - INFO - Training Naive Bayes 5
+2024-02-23 09:12:34,541 - polyssifier - INFO - Naive Bayes                5: Train 0.65/Test 0.77, 0.02 sec
+2024-02-23 09:12:34,547 - polyssifier - INFO - Training Naive Bayes 6
+2024-02-23 09:12:34,569 - polyssifier - INFO - Naive Bayes                6: Train 0.67/Test 0.65, 0.02 sec
+2024-02-23 09:12:34,575 - polyssifier - INFO - Training Naive Bayes 7
+2024-02-23 09:12:34,596 - polyssifier - INFO - Naive Bayes                7: Train 0.67/Test 0.63, 0.02 sec
+2024-02-23 09:12:34,601 - polyssifier - INFO - Training Naive Bayes 8
+2024-02-23 09:12:34,623 - polyssifier - INFO - Naive Bayes                8: Train 0.65/Test 0.75, 0.02 sec
+2024-02-23 09:12:34,629 - polyssifier - INFO - Training Naive Bayes 9
+2024-02-23 09:12:34,650 - polyssifier - INFO - Naive Bayes                9: Train 0.66/Test 0.61, 0.02 sec
+2024-02-23 09:48:13,515 - polyssifier - INFO - Detected 2 classes in label
+2024-02-23 09:48:13,516 - polyssifier - INFO - Building classifiers ...
+2024-02-23 09:48:13,521 - polyssifier - INFO - Initialization, done.
+2024-02-23 09:48:13,549 - polyssifier - INFO - Training Multilayer Perceptron 0
+2024-02-23 09:48:16,183 - polyssifier - INFO - Multilayer Perceptron      0: Train 1.00/Test 0.89, 2.63 sec
+2024-02-23 09:48:16,192 - polyssifier - INFO - Training Multilayer Perceptron 1
+2024-02-23 09:48:18,671 - polyssifier - INFO - Multilayer Perceptron      1: Train 1.00/Test 0.76, 2.48 sec
+2024-02-23 09:48:18,680 - polyssifier - INFO - Training Multilayer Perceptron 2
+2024-02-23 09:48:21,046 - polyssifier - INFO - Multilayer Perceptron      2: Train 1.00/Test 0.88, 2.37 sec
+2024-02-23 09:48:21,055 - polyssifier - INFO - Training Multilayer Perceptron 3
+2024-02-23 09:48:23,423 - polyssifier - INFO - Multilayer Perceptron      3: Train 1.00/Test 0.88, 2.37 sec
+2024-02-23 09:48:23,431 - polyssifier - INFO - Training Multilayer Perceptron 4
+2024-02-23 09:48:25,951 - polyssifier - INFO - Multilayer Perceptron      4: Train 1.00/Test 0.89, 2.52 sec
+2024-02-23 09:48:25,959 - polyssifier - INFO - Training Multilayer Perceptron 5
+2024-02-23 09:48:28,401 - polyssifier - INFO - Multilayer Perceptron      5: Train 1.00/Test 0.80, 2.44 sec
+2024-02-23 09:48:28,413 - polyssifier - INFO - Training Multilayer Perceptron 6
+2024-02-23 09:48:30,837 - polyssifier - INFO - Multilayer Perceptron      6: Train 1.00/Test 0.83, 2.42 sec
+2024-02-23 09:48:30,849 - polyssifier - INFO - Training Multilayer Perceptron 7
+2024-02-23 09:48:33,186 - polyssifier - INFO - Multilayer Perceptron      7: Train 1.00/Test 0.86, 2.34 sec
+2024-02-23 09:48:33,197 - polyssifier - INFO - Training Multilayer Perceptron 8
+2024-02-23 09:48:35,584 - polyssifier - INFO - Multilayer Perceptron      8: Train 1.00/Test 0.87, 2.39 sec
+2024-02-23 09:48:35,592 - polyssifier - INFO - Training Multilayer Perceptron 9
+2024-02-23 09:48:38,082 - polyssifier - INFO - Multilayer Perceptron      9: Train 1.00/Test 0.92, 2.49 sec
+2024-02-23 09:48:38,089 - polyssifier - INFO - Training Nearest Neighbors 0
+2024-02-23 09:48:38,605 - polyssifier - INFO - Nearest Neighbors          0: Train 0.79/Test 0.63, 0.52 sec
+2024-02-23 09:48:38,614 - polyssifier - INFO - Training Nearest Neighbors 1
+2024-02-23 09:48:38,999 - polyssifier - INFO - Nearest Neighbors          1: Train 0.86/Test 0.58, 0.38 sec
+2024-02-23 09:48:39,006 - polyssifier - INFO - Training Nearest Neighbors 2
+2024-02-23 09:48:39,403 - polyssifier - INFO - Nearest Neighbors          2: Train 0.77/Test 0.78, 0.40 sec
+2024-02-23 09:48:39,411 - polyssifier - INFO - Training Nearest Neighbors 3
+2024-02-23 09:48:39,787 - polyssifier - INFO - Nearest Neighbors          3: Train 0.85/Test 0.75, 0.38 sec
+2024-02-23 09:48:39,795 - polyssifier - INFO - Training Nearest Neighbors 4
+2024-02-23 09:48:40,195 - polyssifier - INFO - Nearest Neighbors          4: Train 0.83/Test 0.68, 0.40 sec
+2024-02-23 09:48:40,203 - polyssifier - INFO - Training Nearest Neighbors 5
+2024-02-23 09:48:40,602 - polyssifier - INFO - Nearest Neighbors          5: Train 0.83/Test 0.68, 0.40 sec
+2024-02-23 09:48:40,610 - polyssifier - INFO - Training Nearest Neighbors 6
+2024-02-23 09:48:41,006 - polyssifier - INFO - Nearest Neighbors          6: Train 0.77/Test 0.72, 0.40 sec
+2024-02-23 09:48:41,014 - polyssifier - INFO - Training Nearest Neighbors 7
+2024-02-23 09:48:41,396 - polyssifier - INFO - Nearest Neighbors          7: Train 0.87/Test 0.70, 0.38 sec
+2024-02-23 09:48:41,404 - polyssifier - INFO - Training Nearest Neighbors 8
+2024-02-23 09:48:41,795 - polyssifier - INFO - Nearest Neighbors          8: Train 0.82/Test 0.76, 0.39 sec
+2024-02-23 09:48:41,803 - polyssifier - INFO - Training Nearest Neighbors 9
+2024-02-23 09:48:42,207 - polyssifier - INFO - Nearest Neighbors          9: Train 0.78/Test 0.77, 0.40 sec
+2024-02-23 09:48:42,215 - polyssifier - INFO - Training SVM 0
+2024-02-23 09:48:45,208 - polyssifier - INFO - SVM                        0: Train 1.00/Test 0.80, 2.99 sec
+2024-02-23 09:48:45,214 - polyssifier - INFO - Training SVM 1
+2024-02-23 09:48:48,287 - polyssifier - INFO - SVM                        1: Train 1.00/Test 0.67, 3.07 sec
+2024-02-23 09:48:48,293 - polyssifier - INFO - Training SVM 2
+2024-02-23 09:48:51,240 - polyssifier - INFO - SVM                        2: Train 1.00/Test 0.88, 2.95 sec
+2024-02-23 09:48:51,246 - polyssifier - INFO - Training SVM 3
+2024-02-23 09:48:54,150 - polyssifier - INFO - SVM                        3: Train 1.00/Test 0.86, 2.90 sec
+2024-02-23 09:48:54,156 - polyssifier - INFO - Training SVM 4
+2024-02-23 09:48:56,901 - polyssifier - INFO - SVM                        4: Train 0.99/Test 0.76, 2.74 sec
+2024-02-23 09:48:56,907 - polyssifier - INFO - Training SVM 5
+2024-02-23 09:49:00,045 - polyssifier - INFO - SVM                        5: Train 0.99/Test 0.81, 3.14 sec
+2024-02-23 09:49:00,052 - polyssifier - INFO - Training SVM 6
+2024-02-23 09:49:02,884 - polyssifier - INFO - SVM                        6: Train 1.00/Test 0.77, 2.83 sec
+2024-02-23 09:49:02,890 - polyssifier - INFO - Training SVM 7
+2024-02-23 09:49:05,918 - polyssifier - INFO - SVM                        7: Train 0.99/Test 0.81, 3.03 sec
+2024-02-23 09:49:05,925 - polyssifier - INFO - Training SVM 8
+2024-02-23 09:49:08,889 - polyssifier - INFO - SVM                        8: Train 1.00/Test 0.87, 2.96 sec
+2024-02-23 09:49:08,896 - polyssifier - INFO - Training SVM 9
+2024-02-23 09:49:11,944 - polyssifier - INFO - SVM                        9: Train 0.98/Test 0.85, 3.05 sec
+2024-02-23 09:49:11,950 - polyssifier - INFO - Training Linear SVM 0
+2024-02-23 09:49:15,873 - polyssifier - INFO - Linear SVM                 0: Train 1.00/Test 0.95, 3.92 sec
+2024-02-23 09:49:15,881 - polyssifier - INFO - Training Linear SVM 1
+2024-02-23 09:49:20,642 - polyssifier - INFO - Linear SVM                 1: Train 1.00/Test 0.83, 4.76 sec
+2024-02-23 09:49:20,651 - polyssifier - INFO - Training Linear SVM 2
+2024-02-23 09:49:25,413 - polyssifier - INFO - Linear SVM                 2: Train 1.00/Test 0.91, 4.76 sec
+2024-02-23 09:49:25,421 - polyssifier - INFO - Training Linear SVM 3
+2024-02-23 09:49:30,192 - polyssifier - INFO - Linear SVM                 3: Train 1.00/Test 0.91, 4.77 sec
+2024-02-23 09:49:30,199 - polyssifier - INFO - Training Linear SVM 4
+2024-02-23 09:49:34,430 - polyssifier - INFO - Linear SVM                 4: Train 1.00/Test 0.87, 4.23 sec
+2024-02-23 09:49:34,437 - polyssifier - INFO - Training Linear SVM 5
+2024-02-23 09:49:39,220 - polyssifier - INFO - Linear SVM                 5: Train 1.00/Test 0.88, 4.78 sec
+2024-02-23 09:49:39,228 - polyssifier - INFO - Training Linear SVM 6
+2024-02-23 09:49:43,452 - polyssifier - INFO - Linear SVM                 6: Train 1.00/Test 0.87, 4.22 sec
+2024-02-23 09:49:43,460 - polyssifier - INFO - Training Linear SVM 7
+2024-02-23 09:49:48,150 - polyssifier - INFO - Linear SVM                 7: Train 1.00/Test 0.88, 4.69 sec
+2024-02-23 09:49:48,158 - polyssifier - INFO - Training Linear SVM 8
+2024-02-23 09:49:52,562 - polyssifier - INFO - Linear SVM                 8: Train 1.00/Test 0.92, 4.40 sec
+2024-02-23 09:49:52,570 - polyssifier - INFO - Training Linear SVM 9
+2024-02-23 09:49:56,898 - polyssifier - INFO - Linear SVM                 9: Train 1.00/Test 0.95, 4.33 sec
+2024-02-23 09:49:56,909 - polyssifier - INFO - Training Decision Tree 0
+2024-02-23 09:49:56,950 - polyssifier - INFO - Decision Tree              0: Train 1.00/Test 0.54, 0.04 sec
+2024-02-23 09:49:56,959 - polyssifier - INFO - Training Decision Tree 1
+2024-02-23 09:49:56,986 - polyssifier - INFO - Decision Tree              1: Train 1.00/Test 0.56, 0.03 sec
+2024-02-23 09:49:56,992 - polyssifier - INFO - Training Decision Tree 2
+2024-02-23 09:49:57,018 - polyssifier - INFO - Decision Tree              2: Train 1.00/Test 0.71, 0.03 sec
+2024-02-23 09:49:57,024 - polyssifier - INFO - Training Decision Tree 3
+2024-02-23 09:49:57,049 - polyssifier - INFO - Decision Tree              3: Train 1.00/Test 0.63, 0.03 sec
+2024-02-23 09:49:57,055 - polyssifier - INFO - Training Decision Tree 4
+2024-02-23 09:49:57,082 - polyssifier - INFO - Decision Tree              4: Train 1.00/Test 0.67, 0.03 sec
+2024-02-23 09:49:57,088 - polyssifier - INFO - Training Decision Tree 5
+2024-02-23 09:49:57,113 - polyssifier - INFO - Decision Tree              5: Train 1.00/Test 0.63, 0.02 sec
+2024-02-23 09:49:57,119 - polyssifier - INFO - Training Decision Tree 6
+2024-02-23 09:49:57,143 - polyssifier - INFO - Decision Tree              6: Train 1.00/Test 0.73, 0.02 sec
+2024-02-23 09:49:57,149 - polyssifier - INFO - Training Decision Tree 7
+2024-02-23 09:49:57,174 - polyssifier - INFO - Decision Tree              7: Train 1.00/Test 0.54, 0.02 sec
+2024-02-23 09:49:57,180 - polyssifier - INFO - Training Decision Tree 8
+2024-02-23 09:49:57,208 - polyssifier - INFO - Decision Tree              8: Train 1.00/Test 0.60, 0.03 sec
+2024-02-23 09:49:57,214 - polyssifier - INFO - Training Decision Tree 9
+2024-02-23 09:49:57,243 - polyssifier - INFO - Decision Tree              9: Train 1.00/Test 0.56, 0.03 sec
+2024-02-23 09:49:57,250 - polyssifier - INFO - Training Random Forest 0
+2024-02-23 09:49:59,903 - polyssifier - INFO - Random Forest              0: Train 1.00/Test 0.73, 2.65 sec
+2024-02-23 09:49:59,912 - polyssifier - INFO - Training Random Forest 1
+2024-02-23 09:50:02,544 - polyssifier - INFO - Random Forest              1: Train 1.00/Test 0.64, 2.63 sec
+2024-02-23 09:50:02,553 - polyssifier - INFO - Training Random Forest 2
+2024-02-23 09:50:05,225 - polyssifier - INFO - Random Forest              2: Train 1.00/Test 0.76, 2.67 sec
+2024-02-23 09:50:05,233 - polyssifier - INFO - Training Random Forest 3
+2024-02-23 09:50:07,867 - polyssifier - INFO - Random Forest              3: Train 1.00/Test 0.81, 2.63 sec
+2024-02-23 09:50:07,876 - polyssifier - INFO - Training Random Forest 4
+2024-02-23 09:50:10,499 - polyssifier - INFO - Random Forest              4: Train 1.00/Test 0.73, 2.62 sec
+2024-02-23 09:50:10,508 - polyssifier - INFO - Training Random Forest 5
+2024-02-23 09:50:13,100 - polyssifier - INFO - Random Forest              5: Train 1.00/Test 0.78, 2.59 sec
+2024-02-23 09:50:13,108 - polyssifier - INFO - Training Random Forest 6
+2024-02-23 09:50:15,763 - polyssifier - INFO - Random Forest              6: Train 1.00/Test 0.66, 2.66 sec
+2024-02-23 09:50:15,772 - polyssifier - INFO - Training Random Forest 7
+2024-02-23 09:50:18,375 - polyssifier - INFO - Random Forest              7: Train 1.00/Test 0.62, 2.60 sec
+2024-02-23 09:50:18,383 - polyssifier - INFO - Training Random Forest 8
+2024-02-23 09:50:21,001 - polyssifier - INFO - Random Forest              8: Train 1.00/Test 0.73, 2.62 sec
+2024-02-23 09:50:21,009 - polyssifier - INFO - Training Random Forest 9
+2024-02-23 09:50:23,614 - polyssifier - INFO - Random Forest              9: Train 1.00/Test 0.64, 2.61 sec
+2024-02-23 09:50:23,623 - polyssifier - INFO - Training Logistic Regression 0
+2024-02-23 09:50:24,045 - polyssifier - INFO - Logistic Regression        0: Train 1.00/Test 0.95, 0.42 sec
+2024-02-23 09:50:24,053 - polyssifier - INFO - Training Logistic Regression 1
+2024-02-23 09:50:24,498 - polyssifier - INFO - Logistic Regression        1: Train 1.00/Test 0.84, 0.44 sec
+2024-02-23 09:50:24,507 - polyssifier - INFO - Training Logistic Regression 2
+2024-02-23 09:50:24,906 - polyssifier - INFO - Logistic Regression        2: Train 1.00/Test 0.92, 0.40 sec
+2024-02-23 09:50:24,915 - polyssifier - INFO - Training Logistic Regression 3
+2024-02-23 09:50:25,327 - polyssifier - INFO - Logistic Regression        3: Train 1.00/Test 0.91, 0.41 sec
+2024-02-23 09:50:25,336 - polyssifier - INFO - Training Logistic Regression 4
+2024-02-23 09:50:25,741 - polyssifier - INFO - Logistic Regression        4: Train 1.00/Test 0.88, 0.40 sec
+2024-02-23 09:50:25,750 - polyssifier - INFO - Training Logistic Regression 5
+2024-02-23 09:50:26,162 - polyssifier - INFO - Logistic Regression        5: Train 1.00/Test 0.89, 0.41 sec
+2024-02-23 09:50:26,171 - polyssifier - INFO - Training Logistic Regression 6
+2024-02-23 09:50:26,589 - polyssifier - INFO - Logistic Regression        6: Train 1.00/Test 0.89, 0.42 sec
+2024-02-23 09:50:26,598 - polyssifier - INFO - Training Logistic Regression 7
+2024-02-23 09:50:27,041 - polyssifier - INFO - Logistic Regression        7: Train 1.00/Test 0.88, 0.44 sec
+2024-02-23 09:50:27,049 - polyssifier - INFO - Training Logistic Regression 8
+2024-02-23 09:50:27,450 - polyssifier - INFO - Logistic Regression        8: Train 1.00/Test 0.93, 0.40 sec
+2024-02-23 09:50:27,458 - polyssifier - INFO - Training Logistic Regression 9
+2024-02-23 09:50:27,862 - polyssifier - INFO - Logistic Regression        9: Train 1.00/Test 0.94, 0.40 sec
+2024-02-23 09:50:27,870 - polyssifier - INFO - Training Naive Bayes 0
+2024-02-23 09:50:27,902 - polyssifier - INFO - Naive Bayes                0: Train 0.64/Test 0.56, 0.03 sec
+2024-02-23 09:50:27,910 - polyssifier - INFO - Training Naive Bayes 1
+2024-02-23 09:50:27,938 - polyssifier - INFO - Naive Bayes                1: Train 0.64/Test 0.64, 0.03 sec
+2024-02-23 09:50:27,944 - polyssifier - INFO - Training Naive Bayes 2
+2024-02-23 09:50:27,969 - polyssifier - INFO - Naive Bayes                2: Train 0.63/Test 0.65, 0.02 sec
+2024-02-23 09:50:27,975 - polyssifier - INFO - Training Naive Bayes 3
+2024-02-23 09:50:27,996 - polyssifier - INFO - Naive Bayes                3: Train 0.64/Test 0.68, 0.02 sec
+2024-02-23 09:50:28,003 - polyssifier - INFO - Training Naive Bayes 4
+2024-02-23 09:50:28,024 - polyssifier - INFO - Naive Bayes                4: Train 0.64/Test 0.58, 0.02 sec
+2024-02-23 09:50:28,030 - polyssifier - INFO - Training Naive Bayes 5
+2024-02-23 09:50:28,052 - polyssifier - INFO - Naive Bayes                5: Train 0.63/Test 0.72, 0.02 sec
+2024-02-23 09:50:28,059 - polyssifier - INFO - Training Naive Bayes 6
+2024-02-23 09:50:28,081 - polyssifier - INFO - Naive Bayes                6: Train 0.64/Test 0.60, 0.02 sec
+2024-02-23 09:50:28,087 - polyssifier - INFO - Training Naive Bayes 7
+2024-02-23 09:50:28,109 - polyssifier - INFO - Naive Bayes                7: Train 0.64/Test 0.59, 0.02 sec
+2024-02-23 09:50:28,115 - polyssifier - INFO - Training Naive Bayes 8
+2024-02-23 09:50:28,140 - polyssifier - INFO - Naive Bayes                8: Train 0.63/Test 0.70, 0.03 sec
+2024-02-23 09:50:28,146 - polyssifier - INFO - Training Naive Bayes 9
+2024-02-23 09:50:28,170 - polyssifier - INFO - Naive Bayes                9: Train 0.64/Test 0.59, 0.02 sec
+2024-02-23 09:59:51,733 - polyssifier - INFO - Detected 2 classes in label
+2024-02-23 09:59:51,734 - polyssifier - INFO - Building classifiers ...
+2024-02-23 09:59:51,738 - polyssifier - INFO - Initialization, done.
+2024-02-23 09:59:51,766 - polyssifier - INFO - Training Multilayer Perceptron 0
+2024-02-23 09:59:54,219 - polyssifier - INFO - Multilayer Perceptron      0: Train 1.00/Test 0.86, 2.45 sec
+2024-02-23 09:59:54,231 - polyssifier - INFO - Training Multilayer Perceptron 1
+2024-02-23 09:59:56,620 - polyssifier - INFO - Multilayer Perceptron      1: Train 1.00/Test 0.79, 2.39 sec
+2024-02-23 09:59:56,629 - polyssifier - INFO - Training Multilayer Perceptron 2
+2024-02-23 09:59:59,176 - polyssifier - INFO - Multilayer Perceptron      2: Train 1.00/Test 0.89, 2.55 sec
+2024-02-23 09:59:59,182 - polyssifier - INFO - Training Multilayer Perceptron 3
+2024-02-23 10:00:01,931 - polyssifier - INFO - Multilayer Perceptron      3: Train 1.00/Test 0.89, 2.75 sec
+2024-02-23 10:00:01,942 - polyssifier - INFO - Training Multilayer Perceptron 4
+2024-02-23 10:00:04,502 - polyssifier - INFO - Multilayer Perceptron      4: Train 1.00/Test 0.89, 2.56 sec
+2024-02-23 10:00:04,511 - polyssifier - INFO - Training Multilayer Perceptron 5
+2024-02-23 10:00:06,928 - polyssifier - INFO - Multilayer Perceptron      5: Train 1.00/Test 0.82, 2.42 sec
+2024-02-23 10:00:06,937 - polyssifier - INFO - Training Multilayer Perceptron 6
+2024-02-23 10:00:09,431 - polyssifier - INFO - Multilayer Perceptron      6: Train 1.00/Test 0.86, 2.49 sec
+2024-02-23 10:00:09,440 - polyssifier - INFO - Training Multilayer Perceptron 7
+2024-02-23 10:00:12,000 - polyssifier - INFO - Multilayer Perceptron      7: Train 1.00/Test 0.87, 2.56 sec
+2024-02-23 10:00:12,009 - polyssifier - INFO - Training Multilayer Perceptron 8
+2024-02-23 10:00:14,572 - polyssifier - INFO - Multilayer Perceptron      8: Train 1.00/Test 0.90, 2.56 sec
+2024-02-23 10:00:14,581 - polyssifier - INFO - Training Multilayer Perceptron 9
+2024-02-23 10:00:16,999 - polyssifier - INFO - Multilayer Perceptron      9: Train 1.00/Test 0.92, 2.42 sec
+2024-02-23 10:00:17,008 - polyssifier - INFO - Training Nearest Neighbors 0
+2024-02-23 10:00:17,507 - polyssifier - INFO - Nearest Neighbors          0: Train 0.79/Test 0.63, 0.50 sec
+2024-02-23 10:00:17,515 - polyssifier - INFO - Training Nearest Neighbors 1
+2024-02-23 10:00:17,915 - polyssifier - INFO - Nearest Neighbors          1: Train 0.86/Test 0.58, 0.40 sec
+2024-02-23 10:00:17,923 - polyssifier - INFO - Training Nearest Neighbors 2
+2024-02-23 10:00:18,320 - polyssifier - INFO - Nearest Neighbors          2: Train 0.77/Test 0.78, 0.40 sec
+2024-02-23 10:00:18,328 - polyssifier - INFO - Training Nearest Neighbors 3
+2024-02-23 10:00:18,710 - polyssifier - INFO - Nearest Neighbors          3: Train 0.85/Test 0.75, 0.38 sec
+2024-02-23 10:00:18,719 - polyssifier - INFO - Training Nearest Neighbors 4
+2024-02-23 10:00:19,096 - polyssifier - INFO - Nearest Neighbors          4: Train 0.83/Test 0.68, 0.38 sec
+2024-02-23 10:00:19,104 - polyssifier - INFO - Training Nearest Neighbors 5
+2024-02-23 10:00:19,503 - polyssifier - INFO - Nearest Neighbors          5: Train 0.83/Test 0.68, 0.40 sec
+2024-02-23 10:00:19,511 - polyssifier - INFO - Training Nearest Neighbors 6
+2024-02-23 10:00:19,901 - polyssifier - INFO - Nearest Neighbors          6: Train 0.77/Test 0.72, 0.39 sec
+2024-02-23 10:00:19,909 - polyssifier - INFO - Training Nearest Neighbors 7
+2024-02-23 10:00:20,295 - polyssifier - INFO - Nearest Neighbors          7: Train 0.87/Test 0.70, 0.39 sec
+2024-02-23 10:00:20,303 - polyssifier - INFO - Training Nearest Neighbors 8
+2024-02-23 10:00:20,727 - polyssifier - INFO - Nearest Neighbors          8: Train 0.82/Test 0.76, 0.42 sec
+2024-02-23 10:00:20,735 - polyssifier - INFO - Training Nearest Neighbors 9
+2024-02-23 10:00:21,127 - polyssifier - INFO - Nearest Neighbors          9: Train 0.78/Test 0.77, 0.39 sec
+2024-02-23 10:00:21,135 - polyssifier - INFO - Training SVM 0
+2024-02-23 10:00:23,900 - polyssifier - INFO - SVM                        0: Train 1.00/Test 0.80, 2.77 sec
+2024-02-23 10:00:23,906 - polyssifier - INFO - Training SVM 1
+2024-02-23 10:00:26,732 - polyssifier - INFO - SVM                        1: Train 1.00/Test 0.67, 2.83 sec
+2024-02-23 10:00:26,739 - polyssifier - INFO - Training SVM 2
+2024-02-23 10:00:29,565 - polyssifier - INFO - SVM                        2: Train 1.00/Test 0.88, 2.83 sec
+2024-02-23 10:00:29,571 - polyssifier - INFO - Training SVM 3
+2024-02-23 10:00:32,333 - polyssifier - INFO - SVM                        3: Train 1.00/Test 0.86, 2.76 sec
+2024-02-23 10:00:32,339 - polyssifier - INFO - Training SVM 4
+2024-02-23 10:00:35,079 - polyssifier - INFO - SVM                        4: Train 0.99/Test 0.76, 2.74 sec
+2024-02-23 10:00:35,085 - polyssifier - INFO - Training SVM 5
+2024-02-23 10:00:38,220 - polyssifier - INFO - SVM                        5: Train 0.99/Test 0.81, 3.13 sec
+2024-02-23 10:00:38,226 - polyssifier - INFO - Training SVM 6
+2024-02-23 10:00:41,358 - polyssifier - INFO - SVM                        6: Train 1.00/Test 0.77, 3.13 sec
+2024-02-23 10:00:41,363 - polyssifier - INFO - Training SVM 7
+2024-02-23 10:00:44,833 - polyssifier - INFO - SVM                        7: Train 0.99/Test 0.81, 3.47 sec
+2024-02-23 10:00:44,839 - polyssifier - INFO - Training SVM 8
+2024-02-23 10:00:48,074 - polyssifier - INFO - SVM                        8: Train 1.00/Test 0.87, 3.24 sec
+2024-02-23 10:00:48,080 - polyssifier - INFO - Training SVM 9
+2024-02-23 10:00:51,302 - polyssifier - INFO - SVM                        9: Train 0.98/Test 0.85, 3.22 sec
+2024-02-23 10:00:51,308 - polyssifier - INFO - Training Linear SVM 0
+2024-02-23 10:00:55,184 - polyssifier - INFO - Linear SVM                 0: Train 1.00/Test 0.95, 3.88 sec
+2024-02-23 10:00:55,192 - polyssifier - INFO - Training Linear SVM 1
+2024-02-23 10:00:59,884 - polyssifier - INFO - Linear SVM                 1: Train 1.00/Test 0.83, 4.69 sec
+2024-02-23 10:00:59,892 - polyssifier - INFO - Training Linear SVM 2
+2024-02-23 10:01:04,530 - polyssifier - INFO - Linear SVM                 2: Train 1.00/Test 0.91, 4.64 sec
+2024-02-23 10:01:04,539 - polyssifier - INFO - Training Linear SVM 3
+2024-02-23 10:01:09,254 - polyssifier - INFO - Linear SVM                 3: Train 1.00/Test 0.91, 4.72 sec
+2024-02-23 10:01:09,262 - polyssifier - INFO - Training Linear SVM 4
+2024-02-23 10:01:13,448 - polyssifier - INFO - Linear SVM                 4: Train 1.00/Test 0.87, 4.19 sec
+2024-02-23 10:01:13,456 - polyssifier - INFO - Training Linear SVM 5
+2024-02-23 10:01:18,254 - polyssifier - INFO - Linear SVM                 5: Train 1.00/Test 0.88, 4.80 sec
+2024-02-23 10:01:18,262 - polyssifier - INFO - Training Linear SVM 6
+2024-02-23 10:01:22,470 - polyssifier - INFO - Linear SVM                 6: Train 1.00/Test 0.87, 4.21 sec
+2024-02-23 10:01:22,478 - polyssifier - INFO - Training Linear SVM 7
+2024-02-23 10:01:27,136 - polyssifier - INFO - Linear SVM                 7: Train 1.00/Test 0.88, 4.66 sec
+2024-02-23 10:01:27,143 - polyssifier - INFO - Training Linear SVM 8
+2024-02-23 10:01:31,478 - polyssifier - INFO - Linear SVM                 8: Train 1.00/Test 0.92, 4.34 sec
+2024-02-23 10:01:31,486 - polyssifier - INFO - Training Linear SVM 9
+2024-02-23 10:01:35,798 - polyssifier - INFO - Linear SVM                 9: Train 1.00/Test 0.95, 4.31 sec
+2024-02-23 10:01:35,806 - polyssifier - INFO - Training Decision Tree 0
+2024-02-23 10:01:35,846 - polyssifier - INFO - Decision Tree              0: Train 1.00/Test 0.65, 0.04 sec
+2024-02-23 10:01:35,856 - polyssifier - INFO - Training Decision Tree 1
+2024-02-23 10:01:35,884 - polyssifier - INFO - Decision Tree              1: Train 1.00/Test 0.53, 0.03 sec
+2024-02-23 10:01:35,890 - polyssifier - INFO - Training Decision Tree 2
+2024-02-23 10:01:35,916 - polyssifier - INFO - Decision Tree              2: Train 1.00/Test 0.58, 0.03 sec
+2024-02-23 10:01:35,922 - polyssifier - INFO - Training Decision Tree 3
+2024-02-23 10:01:35,949 - polyssifier - INFO - Decision Tree              3: Train 1.00/Test 0.58, 0.03 sec
+2024-02-23 10:01:35,955 - polyssifier - INFO - Training Decision Tree 4
+2024-02-23 10:01:35,981 - polyssifier - INFO - Decision Tree              4: Train 1.00/Test 0.59, 0.03 sec
+2024-02-23 10:01:35,987 - polyssifier - INFO - Training Decision Tree 5
+2024-02-23 10:01:36,014 - polyssifier - INFO - Decision Tree              5: Train 1.00/Test 0.57, 0.03 sec
+2024-02-23 10:01:36,019 - polyssifier - INFO - Training Decision Tree 6
+2024-02-23 10:01:36,047 - polyssifier - INFO - Decision Tree              6: Train 1.00/Test 0.51, 0.03 sec
+2024-02-23 10:01:36,053 - polyssifier - INFO - Training Decision Tree 7
+2024-02-23 10:01:36,078 - polyssifier - INFO - Decision Tree              7: Train 1.00/Test 0.57, 0.03 sec
+2024-02-23 10:01:36,084 - polyssifier - INFO - Training Decision Tree 8
+2024-02-23 10:01:36,110 - polyssifier - INFO - Decision Tree              8: Train 1.00/Test 0.70, 0.03 sec
+2024-02-23 10:01:36,115 - polyssifier - INFO - Training Decision Tree 9
+2024-02-23 10:01:36,141 - polyssifier - INFO - Decision Tree              9: Train 1.00/Test 0.58, 0.03 sec
+2024-02-23 10:01:36,146 - polyssifier - INFO - Training Random Forest 0
+2024-02-23 10:01:38,788 - polyssifier - INFO - Random Forest              0: Train 1.00/Test 0.64, 2.64 sec
+2024-02-23 10:01:38,796 - polyssifier - INFO - Training Random Forest 1
+2024-02-23 10:01:41,429 - polyssifier - INFO - Random Forest              1: Train 1.00/Test 0.65, 2.63 sec
+2024-02-23 10:01:41,438 - polyssifier - INFO - Training Random Forest 2
+2024-02-23 10:01:44,043 - polyssifier - INFO - Random Forest              2: Train 1.00/Test 0.73, 2.61 sec
+2024-02-23 10:01:44,051 - polyssifier - INFO - Training Random Forest 3
+2024-02-23 10:01:46,690 - polyssifier - INFO - Random Forest              3: Train 1.00/Test 0.79, 2.64 sec
+2024-02-23 10:01:46,699 - polyssifier - INFO - Training Random Forest 4
+2024-02-23 10:01:49,302 - polyssifier - INFO - Random Forest              4: Train 1.00/Test 0.65, 2.60 sec
+2024-02-23 10:01:49,310 - polyssifier - INFO - Training Random Forest 5
+2024-02-23 10:01:51,918 - polyssifier - INFO - Random Forest              5: Train 1.00/Test 0.70, 2.61 sec
+2024-02-23 10:01:51,927 - polyssifier - INFO - Training Random Forest 6
+2024-02-23 10:01:54,566 - polyssifier - INFO - Random Forest              6: Train 1.00/Test 0.73, 2.64 sec
+2024-02-23 10:01:54,575 - polyssifier - INFO - Training Random Forest 7
+2024-02-23 10:01:57,144 - polyssifier - INFO - Random Forest              7: Train 1.00/Test 0.66, 2.57 sec
+2024-02-23 10:01:57,151 - polyssifier - INFO - Training Random Forest 8
+2024-02-23 10:01:59,771 - polyssifier - INFO - Random Forest              8: Train 1.00/Test 0.69, 2.62 sec
+2024-02-23 10:01:59,779 - polyssifier - INFO - Training Random Forest 9
+2024-02-23 10:02:02,397 - polyssifier - INFO - Random Forest              9: Train 1.00/Test 0.82, 2.62 sec
+2024-02-23 10:02:02,407 - polyssifier - INFO - Training Logistic Regression 0
+2024-02-23 10:02:02,796 - polyssifier - INFO - Logistic Regression        0: Train 1.00/Test 0.95, 0.39 sec
+2024-02-23 10:02:02,804 - polyssifier - INFO - Training Logistic Regression 1
+2024-02-23 10:02:03,216 - polyssifier - INFO - Logistic Regression        1: Train 1.00/Test 0.84, 0.41 sec
+2024-02-23 10:02:03,223 - polyssifier - INFO - Training Logistic Regression 2
+2024-02-23 10:02:03,617 - polyssifier - INFO - Logistic Regression        2: Train 1.00/Test 0.92, 0.39 sec
+2024-02-23 10:02:03,624 - polyssifier - INFO - Training Logistic Regression 3
+2024-02-23 10:02:04,047 - polyssifier - INFO - Logistic Regression        3: Train 1.00/Test 0.91, 0.42 sec
+2024-02-23 10:02:04,055 - polyssifier - INFO - Training Logistic Regression 4
+2024-02-23 10:02:04,457 - polyssifier - INFO - Logistic Regression        4: Train 1.00/Test 0.88, 0.40 sec
+2024-02-23 10:02:04,464 - polyssifier - INFO - Training Logistic Regression 5
+2024-02-23 10:02:04,853 - polyssifier - INFO - Logistic Regression        5: Train 1.00/Test 0.89, 0.39 sec
+2024-02-23 10:02:04,860 - polyssifier - INFO - Training Logistic Regression 6
+2024-02-23 10:02:05,312 - polyssifier - INFO - Logistic Regression        6: Train 1.00/Test 0.89, 0.45 sec
+2024-02-23 10:02:05,319 - polyssifier - INFO - Training Logistic Regression 7
+2024-02-23 10:02:05,715 - polyssifier - INFO - Logistic Regression        7: Train 1.00/Test 0.88, 0.40 sec
+2024-02-23 10:02:05,722 - polyssifier - INFO - Training Logistic Regression 8
+2024-02-23 10:02:06,111 - polyssifier - INFO - Logistic Regression        8: Train 1.00/Test 0.93, 0.39 sec
+2024-02-23 10:02:06,118 - polyssifier - INFO - Training Logistic Regression 9
+2024-02-23 10:02:06,520 - polyssifier - INFO - Logistic Regression        9: Train 1.00/Test 0.94, 0.40 sec
+2024-02-23 10:02:06,527 - polyssifier - INFO - Training Naive Bayes 0
+2024-02-23 10:02:06,558 - polyssifier - INFO - Naive Bayes                0: Train 0.64/Test 0.56, 0.03 sec
+2024-02-23 10:02:06,566 - polyssifier - INFO - Training Naive Bayes 1
+2024-02-23 10:02:06,594 - polyssifier - INFO - Naive Bayes                1: Train 0.64/Test 0.64, 0.03 sec
+2024-02-23 10:02:06,599 - polyssifier - INFO - Training Naive Bayes 2
+2024-02-23 10:02:06,621 - polyssifier - INFO - Naive Bayes                2: Train 0.63/Test 0.65, 0.02 sec
+2024-02-23 10:02:06,627 - polyssifier - INFO - Training Naive Bayes 3
+2024-02-23 10:02:06,649 - polyssifier - INFO - Naive Bayes                3: Train 0.64/Test 0.68, 0.02 sec
+2024-02-23 10:02:06,656 - polyssifier - INFO - Training Naive Bayes 4
+2024-02-23 10:02:06,677 - polyssifier - INFO - Naive Bayes                4: Train 0.64/Test 0.58, 0.02 sec
+2024-02-23 10:02:06,684 - polyssifier - INFO - Training Naive Bayes 5
+2024-02-23 10:02:06,705 - polyssifier - INFO - Naive Bayes                5: Train 0.63/Test 0.72, 0.02 sec
+2024-02-23 10:02:06,711 - polyssifier - INFO - Training Naive Bayes 6
+2024-02-23 10:02:06,735 - polyssifier - INFO - Naive Bayes                6: Train 0.64/Test 0.60, 0.02 sec
+2024-02-23 10:02:06,740 - polyssifier - INFO - Training Naive Bayes 7
+2024-02-23 10:02:06,762 - polyssifier - INFO - Naive Bayes                7: Train 0.64/Test 0.59, 0.02 sec
+2024-02-23 10:02:06,768 - polyssifier - INFO - Training Naive Bayes 8
+2024-02-23 10:02:06,790 - polyssifier - INFO - Naive Bayes                8: Train 0.63/Test 0.70, 0.02 sec
+2024-02-23 10:02:06,796 - polyssifier - INFO - Training Naive Bayes 9
+2024-02-23 10:02:06,818 - polyssifier - INFO - Naive Bayes                9: Train 0.64/Test 0.59, 0.02 sec
+2024-02-23 11:14:27,662 - polyssifier - INFO - Detected 2 classes in label
+2024-02-23 11:14:27,663 - polyssifier - INFO - Building classifiers ...
+2024-02-23 11:14:27,668 - polyssifier - INFO - Initialization, done.
+2024-02-23 11:14:27,695 - polyssifier - INFO - Training Multilayer Perceptron 0
+2024-02-23 11:14:31,226 - polyssifier - INFO - Multilayer Perceptron      0: Train 1.00/Test 0.87, 3.53 sec
+2024-02-23 11:14:31,235 - polyssifier - INFO - Training Multilayer Perceptron 1
+2024-02-23 11:14:33,887 - polyssifier - INFO - Multilayer Perceptron      1: Train 1.00/Test 0.84, 2.65 sec
+2024-02-23 11:14:33,896 - polyssifier - INFO - Training Multilayer Perceptron 2
+2024-02-23 11:14:36,556 - polyssifier - INFO - Multilayer Perceptron      2: Train 1.00/Test 0.85, 2.66 sec
+2024-02-23 11:14:36,565 - polyssifier - INFO - Training Multilayer Perceptron 3
+2024-02-23 11:14:39,305 - polyssifier - INFO - Multilayer Perceptron      3: Train 1.00/Test 0.88, 2.74 sec
+2024-02-23 11:14:39,314 - polyssifier - INFO - Training Multilayer Perceptron 4
+2024-02-23 11:14:42,176 - polyssifier - INFO - Multilayer Perceptron      4: Train 1.00/Test 0.87, 2.86 sec
+2024-02-23 11:14:42,184 - polyssifier - INFO - Training Multilayer Perceptron 5
+2024-02-23 11:14:44,631 - polyssifier - INFO - Multilayer Perceptron      5: Train 1.00/Test 0.81, 2.45 sec
+2024-02-23 11:14:44,640 - polyssifier - INFO - Training Multilayer Perceptron 6
+2024-02-23 11:14:47,228 - polyssifier - INFO - Multilayer Perceptron      6: Train 1.00/Test 0.86, 2.59 sec
+2024-02-23 11:14:47,237 - polyssifier - INFO - Training Multilayer Perceptron 7
+2024-02-23 11:14:49,942 - polyssifier - INFO - Multilayer Perceptron      7: Train 1.00/Test 0.83, 2.71 sec
+2024-02-23 11:14:49,950 - polyssifier - INFO - Training Multilayer Perceptron 8
+2024-02-23 11:14:52,429 - polyssifier - INFO - Multilayer Perceptron      8: Train 1.00/Test 0.90, 2.48 sec
+2024-02-23 11:14:52,438 - polyssifier - INFO - Training Multilayer Perceptron 9
+2024-02-23 11:14:55,029 - polyssifier - INFO - Multilayer Perceptron      9: Train 1.00/Test 0.88, 2.59 sec
+2024-02-23 11:14:55,038 - polyssifier - INFO - Training Nearest Neighbors 0
+2024-02-23 11:14:55,576 - polyssifier - INFO - Nearest Neighbors          0: Train 0.76/Test 0.61, 0.54 sec
+2024-02-23 11:14:55,584 - polyssifier - INFO - Training Nearest Neighbors 1
+2024-02-23 11:14:56,003 - polyssifier - INFO - Nearest Neighbors          1: Train 0.76/Test 0.65, 0.42 sec
+2024-02-23 11:14:56,011 - polyssifier - INFO - Training Nearest Neighbors 2
+2024-02-23 11:14:56,411 - polyssifier - INFO - Nearest Neighbors          2: Train 0.75/Test 0.70, 0.40 sec
+2024-02-23 11:14:56,418 - polyssifier - INFO - Training Nearest Neighbors 3
+2024-02-23 11:14:56,815 - polyssifier - INFO - Nearest Neighbors          3: Train 0.76/Test 0.74, 0.40 sec
+2024-02-23 11:14:56,823 - polyssifier - INFO - Training Nearest Neighbors 4
+2024-02-23 11:14:57,253 - polyssifier - INFO - Nearest Neighbors          4: Train 0.76/Test 0.63, 0.43 sec
+2024-02-23 11:14:57,261 - polyssifier - INFO - Training Nearest Neighbors 5
+2024-02-23 11:14:57,689 - polyssifier - INFO - Nearest Neighbors          5: Train 0.77/Test 0.68, 0.43 sec
+2024-02-23 11:14:57,696 - polyssifier - INFO - Training Nearest Neighbors 6
+2024-02-23 11:14:58,132 - polyssifier - INFO - Nearest Neighbors          6: Train 0.76/Test 0.73, 0.44 sec
+2024-02-23 11:14:58,140 - polyssifier - INFO - Training Nearest Neighbors 7
+2024-02-23 11:14:58,584 - polyssifier - INFO - Nearest Neighbors          7: Train 0.75/Test 0.74, 0.44 sec
+2024-02-23 11:14:58,591 - polyssifier - INFO - Training Nearest Neighbors 8
+2024-02-23 11:14:59,020 - polyssifier - INFO - Nearest Neighbors          8: Train 0.75/Test 0.75, 0.43 sec
+2024-02-23 11:14:59,027 - polyssifier - INFO - Training Nearest Neighbors 9
+2024-02-23 11:14:59,435 - polyssifier - INFO - Nearest Neighbors          9: Train 0.76/Test 0.71, 0.41 sec
+2024-02-23 11:14:59,442 - polyssifier - INFO - Training SVM 0
+2024-02-23 11:15:02,803 - polyssifier - INFO - SVM                        0: Train 0.98/Test 0.82, 3.36 sec
+2024-02-23 11:15:02,809 - polyssifier - INFO - Training SVM 1
+2024-02-23 11:15:06,735 - polyssifier - INFO - SVM                        1: Train 0.99/Test 0.77, 3.93 sec
+2024-02-23 11:15:06,741 - polyssifier - INFO - Training SVM 2
+2024-02-23 11:15:10,709 - polyssifier - INFO - SVM                        2: Train 0.98/Test 0.78, 3.97 sec
+2024-02-23 11:15:10,715 - polyssifier - INFO - Training SVM 3
+2024-02-23 11:15:14,128 - polyssifier - INFO - SVM                        3: Train 0.99/Test 0.90, 3.41 sec
+2024-02-23 11:15:14,134 - polyssifier - INFO - Training SVM 4
+2024-02-23 11:15:17,320 - polyssifier - INFO - SVM                        4: Train 0.99/Test 0.82, 3.19 sec
+2024-02-23 11:15:17,326 - polyssifier - INFO - Training SVM 5
+2024-02-23 11:15:20,630 - polyssifier - INFO - SVM                        5: Train 0.99/Test 0.77, 3.30 sec
+2024-02-23 11:15:20,636 - polyssifier - INFO - Training SVM 6
+2024-02-23 11:15:23,880 - polyssifier - INFO - SVM                        6: Train 0.99/Test 0.86, 3.24 sec
+2024-02-23 11:15:23,886 - polyssifier - INFO - Training SVM 7
+2024-02-23 11:15:27,272 - polyssifier - INFO - SVM                        7: Train 0.98/Test 0.83, 3.39 sec
+2024-02-23 11:15:27,278 - polyssifier - INFO - Training SVM 8
+2024-02-23 11:15:30,415 - polyssifier - INFO - SVM                        8: Train 0.99/Test 0.84, 3.14 sec
+2024-02-23 11:15:30,422 - polyssifier - INFO - Training SVM 9
+2024-02-23 11:15:33,657 - polyssifier - INFO - SVM                        9: Train 0.99/Test 0.84, 3.24 sec
+2024-02-23 11:15:33,663 - polyssifier - INFO - Training Linear SVM 0
+2024-02-23 11:15:38,255 - polyssifier - INFO - Linear SVM                 0: Train 1.00/Test 0.90, 4.59 sec
+2024-02-23 11:15:38,263 - polyssifier - INFO - Training Linear SVM 1
+2024-02-23 11:15:43,214 - polyssifier - INFO - Linear SVM                 1: Train 1.00/Test 0.83, 4.95 sec
+2024-02-23 11:15:43,222 - polyssifier - INFO - Training Linear SVM 2
+2024-02-23 11:15:49,355 - polyssifier - INFO - Linear SVM                 2: Train 1.00/Test 0.88, 6.13 sec
+2024-02-23 11:15:49,363 - polyssifier - INFO - Training Linear SVM 3
+2024-02-23 11:15:54,559 - polyssifier - INFO - Linear SVM                 3: Train 1.00/Test 0.88, 5.20 sec
+2024-02-23 11:15:54,566 - polyssifier - INFO - Training Linear SVM 4
+2024-02-23 11:15:59,602 - polyssifier - INFO - Linear SVM                 4: Train 1.00/Test 0.83, 5.04 sec
+2024-02-23 11:15:59,610 - polyssifier - INFO - Training Linear SVM 5
+2024-02-23 11:16:04,859 - polyssifier - INFO - Linear SVM                 5: Train 1.00/Test 0.83, 5.25 sec
+2024-02-23 11:16:04,867 - polyssifier - INFO - Training Linear SVM 6
+2024-02-23 11:16:10,112 - polyssifier - INFO - Linear SVM                 6: Train 1.00/Test 0.85, 5.24 sec
+2024-02-23 11:16:10,120 - polyssifier - INFO - Training Linear SVM 7
+2024-02-23 11:16:15,247 - polyssifier - INFO - Linear SVM                 7: Train 1.00/Test 0.86, 5.13 sec
+2024-02-23 11:16:15,256 - polyssifier - INFO - Training Linear SVM 8
+2024-02-23 11:16:20,824 - polyssifier - INFO - Linear SVM                 8: Train 1.00/Test 0.92, 5.57 sec
+2024-02-23 11:16:20,831 - polyssifier - INFO - Training Linear SVM 9
+2024-02-23 11:16:25,510 - polyssifier - INFO - Linear SVM                 9: Train 1.00/Test 0.92, 4.68 sec
+2024-02-23 11:16:25,517 - polyssifier - INFO - Training Decision Tree 0
+2024-02-23 11:16:25,555 - polyssifier - INFO - Decision Tree              0: Train 1.00/Test 0.56, 0.04 sec
+2024-02-23 11:16:25,562 - polyssifier - INFO - Training Decision Tree 1
+2024-02-23 11:16:25,594 - polyssifier - INFO - Decision Tree              1: Train 1.00/Test 0.47, 0.03 sec
+2024-02-23 11:16:25,601 - polyssifier - INFO - Training Decision Tree 2
+2024-02-23 11:16:25,626 - polyssifier - INFO - Decision Tree              2: Train 1.00/Test 0.60, 0.02 sec
+2024-02-23 11:16:25,632 - polyssifier - INFO - Training Decision Tree 3
+2024-02-23 11:16:25,659 - polyssifier - INFO - Decision Tree              3: Train 1.00/Test 0.57, 0.03 sec
+2024-02-23 11:16:25,664 - polyssifier - INFO - Training Decision Tree 4
+2024-02-23 11:16:25,692 - polyssifier - INFO - Decision Tree              4: Train 1.00/Test 0.61, 0.03 sec
+2024-02-23 11:16:25,698 - polyssifier - INFO - Training Decision Tree 5
+2024-02-23 11:16:25,725 - polyssifier - INFO - Decision Tree              5: Train 1.00/Test 0.61, 0.03 sec
+2024-02-23 11:16:25,730 - polyssifier - INFO - Training Decision Tree 6
+2024-02-23 11:16:25,756 - polyssifier - INFO - Decision Tree              6: Train 1.00/Test 0.53, 0.03 sec
+2024-02-23 11:16:25,763 - polyssifier - INFO - Training Decision Tree 7
+2024-02-23 11:16:25,790 - polyssifier - INFO - Decision Tree              7: Train 1.00/Test 0.50, 0.03 sec
+2024-02-23 11:16:25,796 - polyssifier - INFO - Training Decision Tree 8
+2024-02-23 11:16:25,822 - polyssifier - INFO - Decision Tree              8: Train 1.00/Test 0.54, 0.03 sec
+2024-02-23 11:16:25,828 - polyssifier - INFO - Training Decision Tree 9
+2024-02-23 11:16:25,851 - polyssifier - INFO - Decision Tree              9: Train 1.00/Test 0.54, 0.02 sec
+2024-02-23 11:16:25,857 - polyssifier - INFO - Training Random Forest 0
+2024-02-23 11:16:28,516 - polyssifier - INFO - Random Forest              0: Train 1.00/Test 0.63, 2.66 sec
+2024-02-23 11:16:28,524 - polyssifier - INFO - Training Random Forest 1
+2024-02-23 11:16:31,237 - polyssifier - INFO - Random Forest              1: Train 1.00/Test 0.59, 2.71 sec
+2024-02-23 11:16:31,244 - polyssifier - INFO - Training Random Forest 2
+2024-02-23 11:16:33,881 - polyssifier - INFO - Random Forest              2: Train 1.00/Test 0.71, 2.64 sec
+2024-02-23 11:16:33,889 - polyssifier - INFO - Training Random Forest 3
+2024-02-23 11:16:36,548 - polyssifier - INFO - Random Forest              3: Train 1.00/Test 0.79, 2.66 sec
+2024-02-23 11:16:36,556 - polyssifier - INFO - Training Random Forest 4
+2024-02-23 11:16:39,186 - polyssifier - INFO - Random Forest              4: Train 1.00/Test 0.64, 2.63 sec
+2024-02-23 11:16:39,195 - polyssifier - INFO - Training Random Forest 5
+2024-02-23 11:16:41,833 - polyssifier - INFO - Random Forest              5: Train 1.00/Test 0.76, 2.64 sec
+2024-02-23 11:16:41,842 - polyssifier - INFO - Training Random Forest 6
+2024-02-23 11:16:44,485 - polyssifier - INFO - Random Forest              6: Train 1.00/Test 0.69, 2.64 sec
+2024-02-23 11:16:44,493 - polyssifier - INFO - Training Random Forest 7
+2024-02-23 11:16:47,166 - polyssifier - INFO - Random Forest              7: Train 1.00/Test 0.80, 2.67 sec
+2024-02-23 11:16:47,174 - polyssifier - INFO - Training Random Forest 8
+2024-02-23 11:16:49,834 - polyssifier - INFO - Random Forest              8: Train 1.00/Test 0.70, 2.66 sec
+2024-02-23 11:16:49,843 - polyssifier - INFO - Training Random Forest 9
+2024-02-23 11:16:52,538 - polyssifier - INFO - Random Forest              9: Train 1.00/Test 0.71, 2.69 sec
+2024-02-23 11:16:52,546 - polyssifier - INFO - Training Logistic Regression 0
+2024-02-23 11:16:52,960 - polyssifier - INFO - Logistic Regression        0: Train 1.00/Test 0.91, 0.41 sec
+2024-02-23 11:16:52,969 - polyssifier - INFO - Training Logistic Regression 1
+2024-02-23 11:16:53,409 - polyssifier - INFO - Logistic Regression        1: Train 1.00/Test 0.84, 0.44 sec
+2024-02-23 11:16:53,418 - polyssifier - INFO - Training Logistic Regression 2
+2024-02-23 11:16:53,852 - polyssifier - INFO - Logistic Regression        2: Train 1.00/Test 0.88, 0.43 sec
+2024-02-23 11:16:53,861 - polyssifier - INFO - Training Logistic Regression 3
+2024-02-23 11:16:54,273 - polyssifier - INFO - Logistic Regression        3: Train 1.00/Test 0.89, 0.41 sec
+2024-02-23 11:16:54,282 - polyssifier - INFO - Training Logistic Regression 4
+2024-02-23 11:16:54,712 - polyssifier - INFO - Logistic Regression        4: Train 1.00/Test 0.85, 0.43 sec
+2024-02-23 11:16:54,721 - polyssifier - INFO - Training Logistic Regression 5
+2024-02-23 11:16:55,128 - polyssifier - INFO - Logistic Regression        5: Train 1.00/Test 0.84, 0.41 sec
+2024-02-23 11:16:55,137 - polyssifier - INFO - Training Logistic Regression 6
+2024-02-23 11:16:55,581 - polyssifier - INFO - Logistic Regression        6: Train 1.00/Test 0.88, 0.44 sec
+2024-02-23 11:16:55,588 - polyssifier - INFO - Training Logistic Regression 7
+2024-02-23 11:16:56,012 - polyssifier - INFO - Logistic Regression        7: Train 1.00/Test 0.88, 0.42 sec
+2024-02-23 11:16:56,021 - polyssifier - INFO - Training Logistic Regression 8
+2024-02-23 11:16:56,471 - polyssifier - INFO - Logistic Regression        8: Train 1.00/Test 0.92, 0.45 sec
+2024-02-23 11:16:56,479 - polyssifier - INFO - Training Logistic Regression 9
+2024-02-23 11:16:56,912 - polyssifier - INFO - Logistic Regression        9: Train 1.00/Test 0.93, 0.43 sec
+2024-02-23 11:16:56,920 - polyssifier - INFO - Training Naive Bayes 0
+2024-02-23 11:16:56,957 - polyssifier - INFO - Naive Bayes                0: Train 0.64/Test 0.54, 0.04 sec
+2024-02-23 11:16:56,965 - polyssifier - INFO - Training Naive Bayes 1
+2024-02-23 11:16:56,992 - polyssifier - INFO - Naive Bayes                1: Train 0.64/Test 0.58, 0.03 sec
+2024-02-23 11:16:56,998 - polyssifier - INFO - Training Naive Bayes 2
+2024-02-23 11:16:57,024 - polyssifier - INFO - Naive Bayes                2: Train 0.63/Test 0.65, 0.03 sec
+2024-02-23 11:16:57,030 - polyssifier - INFO - Training Naive Bayes 3
+2024-02-23 11:16:57,054 - polyssifier - INFO - Naive Bayes                3: Train 0.62/Test 0.69, 0.02 sec
+2024-02-23 11:16:57,060 - polyssifier - INFO - Training Naive Bayes 4
+2024-02-23 11:16:57,082 - polyssifier - INFO - Naive Bayes                4: Train 0.64/Test 0.60, 0.02 sec
+2024-02-23 11:16:57,088 - polyssifier - INFO - Training Naive Bayes 5
+2024-02-23 11:16:57,109 - polyssifier - INFO - Naive Bayes                5: Train 0.63/Test 0.68, 0.02 sec
+2024-02-23 11:16:57,115 - polyssifier - INFO - Training Naive Bayes 6
+2024-02-23 11:16:57,138 - polyssifier - INFO - Naive Bayes                6: Train 0.63/Test 0.64, 0.02 sec
+2024-02-23 11:16:57,144 - polyssifier - INFO - Training Naive Bayes 7
+2024-02-23 11:16:57,168 - polyssifier - INFO - Naive Bayes                7: Train 0.63/Test 0.62, 0.02 sec
+2024-02-23 11:16:57,174 - polyssifier - INFO - Training Naive Bayes 8
+2024-02-23 11:16:57,197 - polyssifier - INFO - Naive Bayes                8: Train 0.63/Test 0.61, 0.02 sec
+2024-02-23 11:16:57,203 - polyssifier - INFO - Training Naive Bayes 9
+2024-02-23 11:16:57,225 - polyssifier - INFO - Naive Bayes                9: Train 0.63/Test 0.62, 0.02 sec
+2024-02-23 11:56:56,539 - polyssifier - INFO - Detected 2 classes in label
+2024-02-23 11:56:56,539 - polyssifier - INFO - Building classifiers ...
+2024-02-23 11:56:56,544 - polyssifier - INFO - Initialization, done.
+2024-02-23 11:56:56,575 - polyssifier - INFO - Training Multilayer Perceptron 0
+2024-02-23 11:56:59,499 - polyssifier - INFO - Multilayer Perceptron      0: Train 1.00/Test 0.80, 2.92 sec
+2024-02-23 11:56:59,507 - polyssifier - INFO - Training Multilayer Perceptron 1
+2024-02-23 11:57:02,684 - polyssifier - INFO - Multilayer Perceptron      1: Train 1.00/Test 0.80, 3.18 sec
+2024-02-23 11:57:02,693 - polyssifier - INFO - Training Multilayer Perceptron 2
+2024-02-23 11:57:05,281 - polyssifier - INFO - Multilayer Perceptron      2: Train 1.00/Test 0.91, 2.59 sec
+2024-02-23 11:57:05,290 - polyssifier - INFO - Training Multilayer Perceptron 3
+2024-02-23 11:57:07,805 - polyssifier - INFO - Multilayer Perceptron      3: Train 1.00/Test 0.80, 2.52 sec
+2024-02-23 11:57:07,817 - polyssifier - INFO - Training Multilayer Perceptron 4
+2024-02-23 11:57:10,421 - polyssifier - INFO - Multilayer Perceptron      4: Train 1.00/Test 0.81, 2.60 sec
+2024-02-23 11:57:10,433 - polyssifier - INFO - Training Multilayer Perceptron 5
+2024-02-23 11:57:13,254 - polyssifier - INFO - Multilayer Perceptron      5: Train 1.00/Test 0.82, 2.82 sec
+2024-02-23 11:57:13,263 - polyssifier - INFO - Training Multilayer Perceptron 6
+2024-02-23 11:57:17,143 - polyssifier - INFO - Multilayer Perceptron      6: Train 1.00/Test 0.87, 3.88 sec
+2024-02-23 11:57:17,150 - polyssifier - INFO - Training Multilayer Perceptron 7
+2024-02-23 11:57:20,125 - polyssifier - INFO - Multilayer Perceptron      7: Train 1.00/Test 0.89, 2.98 sec
+2024-02-23 11:57:20,133 - polyssifier - INFO - Training Multilayer Perceptron 8
+2024-02-23 11:57:22,931 - polyssifier - INFO - Multilayer Perceptron      8: Train 1.00/Test 0.85, 2.80 sec
+2024-02-23 11:57:22,952 - polyssifier - INFO - Training Multilayer Perceptron 9
+2024-02-23 11:57:25,378 - polyssifier - INFO - Multilayer Perceptron      9: Train 1.00/Test 0.92, 2.43 sec
+2024-02-23 11:57:25,386 - polyssifier - INFO - Training Nearest Neighbors 0
+2024-02-23 11:57:25,895 - polyssifier - INFO - Nearest Neighbors          0: Train 0.78/Test 0.63, 0.51 sec
+2024-02-23 11:57:25,903 - polyssifier - INFO - Training Nearest Neighbors 1
+2024-02-23 11:57:26,303 - polyssifier - INFO - Nearest Neighbors          1: Train 0.78/Test 0.67, 0.40 sec
+2024-02-23 11:57:26,311 - polyssifier - INFO - Training Nearest Neighbors 2
+2024-02-23 11:57:26,755 - polyssifier - INFO - Nearest Neighbors          2: Train 0.77/Test 0.70, 0.44 sec
+2024-02-23 11:57:26,762 - polyssifier - INFO - Training Nearest Neighbors 3
+2024-02-23 11:57:27,167 - polyssifier - INFO - Nearest Neighbors          3: Train 0.77/Test 0.74, 0.40 sec
+2024-02-23 11:57:27,174 - polyssifier - INFO - Training Nearest Neighbors 4
+2024-02-23 11:57:27,583 - polyssifier - INFO - Nearest Neighbors          4: Train 0.77/Test 0.65, 0.41 sec
+2024-02-23 11:57:27,591 - polyssifier - INFO - Training Nearest Neighbors 5
+2024-02-23 11:57:27,999 - polyssifier - INFO - Nearest Neighbors          5: Train 0.77/Test 0.81, 0.41 sec
+2024-02-23 11:57:28,007 - polyssifier - INFO - Training Nearest Neighbors 6
+2024-02-23 11:57:28,427 - polyssifier - INFO - Nearest Neighbors          6: Train 0.76/Test 0.74, 0.42 sec
+2024-02-23 11:57:28,434 - polyssifier - INFO - Training Nearest Neighbors 7
+2024-02-23 11:57:28,838 - polyssifier - INFO - Nearest Neighbors          7: Train 0.77/Test 0.72, 0.40 sec
+2024-02-23 11:57:28,845 - polyssifier - INFO - Training Nearest Neighbors 8
+2024-02-23 11:57:29,244 - polyssifier - INFO - Nearest Neighbors          8: Train 0.77/Test 0.73, 0.40 sec
+2024-02-23 11:57:29,252 - polyssifier - INFO - Training Nearest Neighbors 9
+2024-02-23 11:57:29,635 - polyssifier - INFO - Nearest Neighbors          9: Train 0.76/Test 0.70, 0.38 sec
+2024-02-23 11:57:29,642 - polyssifier - INFO - Training SVM 0
+2024-02-23 11:57:32,607 - polyssifier - INFO - SVM                        0: Train 0.98/Test 0.75, 2.96 sec
+2024-02-23 11:57:32,613 - polyssifier - INFO - Training SVM 1
+2024-02-23 11:57:35,804 - polyssifier - INFO - SVM                        1: Train 0.98/Test 0.74, 3.19 sec
+2024-02-23 11:57:35,809 - polyssifier - INFO - Training SVM 2
+2024-02-23 11:57:39,020 - polyssifier - INFO - SVM                        2: Train 0.98/Test 0.87, 3.21 sec
+2024-02-23 11:57:39,026 - polyssifier - INFO - Training SVM 3
+2024-02-23 11:57:42,242 - polyssifier - INFO - SVM                        3: Train 0.98/Test 0.83, 3.22 sec
+2024-02-23 11:57:42,248 - polyssifier - INFO - Training SVM 4
+2024-02-23 11:57:45,460 - polyssifier - INFO - SVM                        4: Train 0.98/Test 0.74, 3.21 sec
+2024-02-23 11:57:45,467 - polyssifier - INFO - Training SVM 5
+2024-02-23 11:57:48,607 - polyssifier - INFO - SVM                        5: Train 0.98/Test 0.80, 3.14 sec
+2024-02-23 11:57:48,613 - polyssifier - INFO - Training SVM 6
+2024-02-23 11:57:51,688 - polyssifier - INFO - SVM                        6: Train 0.98/Test 0.84, 3.07 sec
+2024-02-23 11:57:51,695 - polyssifier - INFO - Training SVM 7
+2024-02-23 11:57:54,765 - polyssifier - INFO - SVM                        7: Train 0.98/Test 0.87, 3.07 sec
+2024-02-23 11:57:54,771 - polyssifier - INFO - Training SVM 8
+2024-02-23 11:57:57,802 - polyssifier - INFO - SVM                        8: Train 0.98/Test 0.85, 3.03 sec
+2024-02-23 11:57:57,808 - polyssifier - INFO - Training SVM 9
+2024-02-23 11:58:00,673 - polyssifier - INFO - SVM                        9: Train 0.98/Test 0.84, 2.86 sec
+2024-02-23 11:58:00,679 - polyssifier - INFO - Training Linear SVM 0
+2024-02-23 11:58:05,212 - polyssifier - INFO - Linear SVM                 0: Train 1.00/Test 0.85, 4.53 sec
+2024-02-23 11:58:05,218 - polyssifier - INFO - Training Linear SVM 1
+2024-02-23 11:58:10,463 - polyssifier - INFO - Linear SVM                 1: Train 1.00/Test 0.79, 5.24 sec
+2024-02-23 11:58:10,471 - polyssifier - INFO - Training Linear SVM 2
+2024-02-23 11:58:15,644 - polyssifier - INFO - Linear SVM                 2: Train 1.00/Test 0.94, 5.17 sec
+2024-02-23 11:58:15,652 - polyssifier - INFO - Training Linear SVM 3
+2024-02-23 11:58:20,129 - polyssifier - INFO - Linear SVM                 3: Train 1.00/Test 0.81, 4.48 sec
+2024-02-23 11:58:20,137 - polyssifier - INFO - Training Linear SVM 4
+2024-02-23 11:58:24,819 - polyssifier - INFO - Linear SVM                 4: Train 1.00/Test 0.81, 4.68 sec
+2024-02-23 11:58:24,827 - polyssifier - INFO - Training Linear SVM 5
+2024-02-23 11:58:30,180 - polyssifier - INFO - Linear SVM                 5: Train 1.00/Test 0.85, 5.35 sec
+2024-02-23 11:58:30,187 - polyssifier - INFO - Training Linear SVM 6
+2024-02-23 11:58:35,239 - polyssifier - INFO - Linear SVM                 6: Train 1.00/Test 0.89, 5.05 sec
+2024-02-23 11:58:35,247 - polyssifier - INFO - Training Linear SVM 7
+2024-02-23 11:58:40,243 - polyssifier - INFO - Linear SVM                 7: Train 1.00/Test 0.87, 5.00 sec
+2024-02-23 11:58:40,252 - polyssifier - INFO - Training Linear SVM 8
+2024-02-23 11:58:45,464 - polyssifier - INFO - Linear SVM                 8: Train 1.00/Test 0.85, 5.21 sec
+2024-02-23 11:58:45,472 - polyssifier - INFO - Training Linear SVM 9
+2024-02-23 11:58:50,130 - polyssifier - INFO - Linear SVM                 9: Train 1.00/Test 0.92, 4.66 sec
+2024-02-23 11:58:50,138 - polyssifier - INFO - Training Decision Tree 0
+2024-02-23 11:58:50,186 - polyssifier - INFO - Decision Tree              0: Train 1.00/Test 0.56, 0.05 sec
+2024-02-23 11:58:50,195 - polyssifier - INFO - Training Decision Tree 1
+2024-02-23 11:58:50,222 - polyssifier - INFO - Decision Tree              1: Train 1.00/Test 0.53, 0.03 sec
+2024-02-23 11:58:50,229 - polyssifier - INFO - Training Decision Tree 2
+2024-02-23 11:58:50,255 - polyssifier - INFO - Decision Tree              2: Train 1.00/Test 0.61, 0.03 sec
+2024-02-23 11:58:50,261 - polyssifier - INFO - Training Decision Tree 3
+2024-02-23 11:58:50,284 - polyssifier - INFO - Decision Tree              3: Train 1.00/Test 0.63, 0.02 sec
+2024-02-23 11:58:50,291 - polyssifier - INFO - Training Decision Tree 4
+2024-02-23 11:58:50,317 - polyssifier - INFO - Decision Tree              4: Train 1.00/Test 0.57, 0.03 sec
+2024-02-23 11:58:50,324 - polyssifier - INFO - Training Decision Tree 5
+2024-02-23 11:58:50,351 - polyssifier - INFO - Decision Tree              5: Train 1.00/Test 0.49, 0.03 sec
+2024-02-23 11:58:50,357 - polyssifier - INFO - Training Decision Tree 6
+2024-02-23 11:58:50,382 - polyssifier - INFO - Decision Tree              6: Train 1.00/Test 0.47, 0.02 sec
+2024-02-23 11:58:50,388 - polyssifier - INFO - Training Decision Tree 7
+2024-02-23 11:58:50,415 - polyssifier - INFO - Decision Tree              7: Train 1.00/Test 0.51, 0.03 sec
+2024-02-23 11:58:50,422 - polyssifier - INFO - Training Decision Tree 8
+2024-02-23 11:58:50,448 - polyssifier - INFO - Decision Tree              8: Train 1.00/Test 0.66, 0.03 sec
+2024-02-23 11:58:50,454 - polyssifier - INFO - Training Decision Tree 9
+2024-02-23 11:58:50,482 - polyssifier - INFO - Decision Tree              9: Train 1.00/Test 0.55, 0.03 sec
+2024-02-23 11:58:50,489 - polyssifier - INFO - Training Random Forest 0
+2024-02-23 11:58:53,147 - polyssifier - INFO - Random Forest              0: Train 1.00/Test 0.60, 2.66 sec
+2024-02-23 11:58:53,155 - polyssifier - INFO - Training Random Forest 1
+2024-02-23 11:58:55,801 - polyssifier - INFO - Random Forest              1: Train 1.00/Test 0.64, 2.65 sec
+2024-02-23 11:58:55,808 - polyssifier - INFO - Training Random Forest 2
+2024-02-23 11:58:58,535 - polyssifier - INFO - Random Forest              2: Train 1.00/Test 0.73, 2.73 sec
+2024-02-23 11:58:58,544 - polyssifier - INFO - Training Random Forest 3
+2024-02-23 11:59:01,289 - polyssifier - INFO - Random Forest              3: Train 1.00/Test 0.65, 2.74 sec
+2024-02-23 11:59:01,299 - polyssifier - INFO - Training Random Forest 4
+2024-02-23 11:59:04,010 - polyssifier - INFO - Random Forest              4: Train 1.00/Test 0.67, 2.71 sec
+2024-02-23 11:59:04,018 - polyssifier - INFO - Training Random Forest 5
+2024-02-23 11:59:06,713 - polyssifier - INFO - Random Forest              5: Train 1.00/Test 0.68, 2.69 sec
+2024-02-23 11:59:06,721 - polyssifier - INFO - Training Random Forest 6
+2024-02-23 11:59:09,435 - polyssifier - INFO - Random Forest              6: Train 1.00/Test 0.77, 2.71 sec
+2024-02-23 11:59:09,444 - polyssifier - INFO - Training Random Forest 7
+2024-02-23 11:59:12,169 - polyssifier - INFO - Random Forest              7: Train 1.00/Test 0.76, 2.73 sec
+2024-02-23 11:59:12,178 - polyssifier - INFO - Training Random Forest 8
+2024-02-23 11:59:14,881 - polyssifier - INFO - Random Forest              8: Train 1.00/Test 0.75, 2.70 sec
+2024-02-23 11:59:14,890 - polyssifier - INFO - Training Random Forest 9
+2024-02-23 11:59:17,616 - polyssifier - INFO - Random Forest              9: Train 1.00/Test 0.64, 2.73 sec
+2024-02-23 11:59:17,625 - polyssifier - INFO - Training Logistic Regression 0
+2024-02-23 11:59:18,018 - polyssifier - INFO - Logistic Regression        0: Train 1.00/Test 0.83, 0.39 sec
+2024-02-23 11:59:18,027 - polyssifier - INFO - Training Logistic Regression 1
+2024-02-23 11:59:18,472 - polyssifier - INFO - Logistic Regression        1: Train 1.00/Test 0.81, 0.44 sec
+2024-02-23 11:59:18,480 - polyssifier - INFO - Training Logistic Regression 2
+2024-02-23 11:59:18,920 - polyssifier - INFO - Logistic Regression        2: Train 1.00/Test 0.94, 0.44 sec
+2024-02-23 11:59:18,928 - polyssifier - INFO - Training Logistic Regression 3
+2024-02-23 11:59:19,379 - polyssifier - INFO - Logistic Regression        3: Train 1.00/Test 0.82, 0.45 sec
+2024-02-23 11:59:19,388 - polyssifier - INFO - Training Logistic Regression 4
+2024-02-23 11:59:19,821 - polyssifier - INFO - Logistic Regression        4: Train 1.00/Test 0.82, 0.43 sec
+2024-02-23 11:59:19,830 - polyssifier - INFO - Training Logistic Regression 5
+2024-02-23 11:59:20,280 - polyssifier - INFO - Logistic Regression        5: Train 1.00/Test 0.86, 0.45 sec
+2024-02-23 11:59:20,288 - polyssifier - INFO - Training Logistic Regression 6
+2024-02-23 11:59:20,720 - polyssifier - INFO - Logistic Regression        6: Train 1.00/Test 0.89, 0.43 sec
+2024-02-23 11:59:20,729 - polyssifier - INFO - Training Logistic Regression 7
+2024-02-23 11:59:21,138 - polyssifier - INFO - Logistic Regression        7: Train 1.00/Test 0.88, 0.41 sec
+2024-02-23 11:59:21,144 - polyssifier - INFO - Training Logistic Regression 8
+2024-02-23 11:59:21,563 - polyssifier - INFO - Logistic Regression        8: Train 1.00/Test 0.86, 0.42 sec
+2024-02-23 11:59:21,572 - polyssifier - INFO - Training Logistic Regression 9
+2024-02-23 11:59:21,996 - polyssifier - INFO - Logistic Regression        9: Train 1.00/Test 0.93, 0.42 sec
+2024-02-23 11:59:22,005 - polyssifier - INFO - Training Naive Bayes 0
+2024-02-23 11:59:22,039 - polyssifier - INFO - Naive Bayes                0: Train 0.64/Test 0.58, 0.03 sec
+2024-02-23 11:59:22,046 - polyssifier - INFO - Training Naive Bayes 1
+2024-02-23 11:59:22,075 - polyssifier - INFO - Naive Bayes                1: Train 0.63/Test 0.67, 0.03 sec
+2024-02-23 11:59:22,082 - polyssifier - INFO - Training Naive Bayes 2
+2024-02-23 11:59:22,105 - polyssifier - INFO - Naive Bayes                2: Train 0.63/Test 0.68, 0.02 sec
+2024-02-23 11:59:22,111 - polyssifier - INFO - Training Naive Bayes 3
+2024-02-23 11:59:22,137 - polyssifier - INFO - Naive Bayes                3: Train 0.63/Test 0.62, 0.03 sec
+2024-02-23 11:59:22,144 - polyssifier - INFO - Training Naive Bayes 4
+2024-02-23 11:59:22,167 - polyssifier - INFO - Naive Bayes                4: Train 0.64/Test 0.56, 0.02 sec
+2024-02-23 11:59:22,174 - polyssifier - INFO - Training Naive Bayes 5
+2024-02-23 11:59:22,196 - polyssifier - INFO - Naive Bayes                5: Train 0.63/Test 0.68, 0.02 sec
+2024-02-23 11:59:22,203 - polyssifier - INFO - Training Naive Bayes 6
+2024-02-23 11:59:22,228 - polyssifier - INFO - Naive Bayes                6: Train 0.63/Test 0.65, 0.03 sec
+2024-02-23 11:59:22,235 - polyssifier - INFO - Training Naive Bayes 7
+2024-02-23 11:59:22,260 - polyssifier - INFO - Naive Bayes                7: Train 0.64/Test 0.60, 0.02 sec
+2024-02-23 11:59:22,267 - polyssifier - INFO - Training Naive Bayes 8
+2024-02-23 11:59:22,292 - polyssifier - INFO - Naive Bayes                8: Train 0.63/Test 0.67, 0.03 sec
+2024-02-23 11:59:22,299 - polyssifier - INFO - Training Naive Bayes 9
+2024-02-23 11:59:22,322 - polyssifier - INFO - Naive Bayes                9: Train 0.64/Test 0.59, 0.02 sec
