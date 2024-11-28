@@ -39,14 +39,11 @@ def machine_learning(x, y):
                                                         shuffle = True,  #shuffle dataset before splitting
                                                         stratify = y,  # keep distribution of sex_class consistent between train and test sets
                                                         random_state = 123) #same shuffle each time 
-
-    print('train:', len(X_train),'test:', len(X_test))
-    
+   
     
     score = []
     model = LinearSVC()
     score.append(cross_val_score(model, X_train, y_train, cv=20, n_jobs = 3))
-    print(score)
     
     
     model.fit(X_train,y_train) #fit the model/ train the model
@@ -62,11 +59,6 @@ def machine_learning(x, y):
     df_result = pd.DataFrame(data=[[tp, fn],[fp,tn]], index= ["Femme", "Homme"], columns = ["Femme", "Homme"])
     df_result = df_result.rename_axis("actual class")
     df_result = df_result.rename_axis("predicted class", axis="columns")
-    print(df_result)
-    
-    # print results
-    print('accuracy test (r2) =', acc_test)
-    print('accuracy train (r2) =', acc_train)
     
     return {
         "len_X_train": len(X_train),
@@ -115,15 +107,15 @@ def run(file_path, Final_df, seed, region):
 
 
 if __name__ == "__main__":
-    study_dir = "/data/brambati/dataset/HCP/derivatives/training_sex_diff/results_validation_discriminant_features_2024-11-28"
+    study_dir = Path("/data/brambati/dataset/HCP/derivatives/training_sex_diff/results_validation_discriminant_features_2024-11-28/")
     file_path = "/data/brambati/dataset/HCP/derivatives/seed-to-voxel-nilearn/results_2024/atlas_means/destrieux_fisherz/seed-{seed_name}_atlas-destrieux_mean-all4_gmcorrected__fisherz.csv"
     Final_df = pd.read_csv("/data/brambati/dataset/HCP/derivatives/training_sex_diff/HCP_matched_age_educ_train.csv")
-    
-    for i in seeds:
-        iteration_number = 10000
-        results = Parallel(n_jobs=-1, verbose=100)(
-            delayed(run)(file_path, Final_df, seeds[i], regions[i]) for num in range(iteration_number)
-        )
 
-    results_file = study_dir  / f"models_iteration-{iteration_number}.pkl"
-    dump(results, results_file)
+    for i in range(0, len(seeds)):
+        iteration_number = 10000
+        for num in range(iteration_number):
+            seed = seeds[i]
+            region = regions[i]
+            results = run(file_path, Final_df, seed, region)
+            results_file = study_dir  / f"{seed}_{region}_models_iteration-{iteration_number}.pkl"
+            joblib.dump(results, results_file)
