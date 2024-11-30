@@ -23,7 +23,7 @@ from sklearn.model_selection import permutation_test_score
 
 from sklearn.metrics import confusion_matrix
 
-import joblib
+from joblib import Parallel, delayed, dump
 from pathlib import Path
 
 
@@ -113,9 +113,12 @@ if __name__ == "__main__":
 
     for i in range(0, len(seeds)):
         iteration_number = 10000
-        for num in range(iteration_number):
-            seed = seeds[i]
-            region = regions[i]
-            results = run(file_path, Final_df, seed, region)
-            results_file = study_dir  / f"{seed}_{region}_models_iteration-{iteration_number}.pkl"
-            joblib.dump(results, results_file)
+        seed = seeds[i]
+        region = regions[i]
+        results = Parallel(n_jobs=-1, verbose=100)(
+            delayed(run)(file_path, Final_df, seed, region) for num in 
+                    range(iteration_number)
+        )
+    
+    results_file = study_dir  / f"{seed}_{region}_models_iteration-{iteration_number}.pkl"
+    joblib.dump(results, results_file)
