@@ -120,5 +120,5 @@ if __name__ == "__main__":
                     range(iteration_number)
         )
     
-    results_file = study_dir  / f"{seed}_{region}_models_iteration-{iteration_number}.pkl"
-    dump(results, results_file)
+        results_file = study_dir  / f"{seed}_{region}_models_iteration-{iteration_number}.pkl"
+        dump(results, results_file)
