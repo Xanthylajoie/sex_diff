@@ -68,6 +68,9 @@ def run(df_boot, data):
     acc_test = model.score(X_test, y_test)
     acc_train = model.score(X_train, y_train)
 
+    # ROC AUC
+    auc = roc_auc_score(y_test, y_pred)
+
     # compute the confusion matrix
     conf_matrix = confusion_matrix(y_test, y_pred)
     tn, fp, fn, tp = conf_matrix.ravel()
@@ -84,6 +87,7 @@ def run(df_boot, data):
         "confusion_matrix": df_result,
         "acc_test": acc_test,
         "acc_train": acc_train,
+        "auc": auc,
         "model": model,
     }
 
