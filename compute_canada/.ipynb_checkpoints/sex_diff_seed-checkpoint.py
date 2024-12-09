@@ -9,7 +9,7 @@ from nilearn.maskers import NiftiLabelsMasker
 
 from pathlib import Path
 
-from sklearn.metrics import confusion_matrix
+from sklearn.metrics import confusion_matrix, roc_auc_score
 from sklearn.model_selection import cross_val_score, train_test_split
 from sklearn.svm import LinearSVC
 
@@ -52,6 +52,9 @@ def machine_learning(x, y):
     df_result = df_result.rename_axis("actual class")
     df_result = df_result.rename_axis("predicted class", axis="columns")
     print(df_result)
+
+    # ROC AUC
+    auc = roc_auc_score(y_test, y_pred)
     
     # print results
     print('accuracy test (r2) =', acc_test)
@@ -64,6 +67,7 @@ def machine_learning(x, y):
         "confusion_matrix": df_result,
         "acc_test": acc_test,
         "acc_train": acc_train,
+        "auc": auc,
         "model": model,
     }
 
