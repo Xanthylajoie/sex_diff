@@ -12,7 +12,7 @@ from nilearn.maskers import NiftiLabelsMasker
 
 from pathlib import Path
 
-from sklearn.metrics import confusion_matrix
+from sklearn.metrics import confusion_matrix, roc_auc_score
 from sklearn.model_selection import cross_val_score, train_test_split
 from sklearn.svm import LinearSVC
 
